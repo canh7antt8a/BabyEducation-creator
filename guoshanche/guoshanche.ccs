@@ -1,0 +1,52 @@
+<Solution>
+  <PropertyGroup Name="guoshanche" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="bai.png" />
+        <Image Name="beijing1.png" />
+        <Image Name="beijing2.png" />
+        <Image Name="caidan.png" />
+        <Image Name="caidan1.png" />
+        <Image Name="chongwan.png" />
+        <Image Name="chongwan1.png" />
+        <Image Name="chufa.png" />
+        <Image Name="defenpai.png" />
+        <Image Name="end_point.png" />
+        <Project Name="game_scene.csd" Type="Scene" />
+        <Image Name="goto_back_down.png" />
+        <Image Name="goto_back_up.png" />
+        <Image Name="guang.png" />
+        <Image Name="guangsu.png" />
+        <Image Name="kaishi.png" />
+        <Image Name="kaishi1.png" />
+        <Image Name="lanmao.png" />
+        <Image Name="loading_bg.png" />
+        <Image Name="loading_dian.png" />
+        <Project Name="loading_scene.csd" Type="Scene" />
+        <Project Name="main_scene.csd" Type="Scene" />
+        <Image Name="mengban.png" />
+        <Image Name="pai.png" />
+        <Image Name="qidian.png" />
+        <Image Name="qiqiu.png" />
+        <Image Name="qiqiu1.png" />
+        <Image Name="road.png" />
+        <Image Name="score_bg.png" />
+        <Image Name="shi.png" />
+        <Image Name="shouzhi.png" />
+        <Image Name="shouzhi1.png" />
+        <Project Name="show_guid.csd" Type="Layer" />
+        <Project Name="show_lose.csd" Type="Layer" />
+        <Project Name="show_result.csd" Type="Layer" />
+        <Image Name="shuzi.png" />
+        <Image Name="skip.png" />
+        <Image Name="skip1.png" />
+        <Image Name="start_down.png" />
+        <Image Name="start_up.png" />
+        <Image Name="zhongdian.png" />
+        <Image Name="zhujiemian.png" />
+        <Image Name="zi.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

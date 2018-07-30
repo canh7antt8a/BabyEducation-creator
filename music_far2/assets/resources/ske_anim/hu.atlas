@@ -1,0 +1,55 @@
+
+hu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100
+  rotate: false
+  xy: 2, 46
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+101
+  rotate: false
+  xy: 128, 101
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+102
+  rotate: false
+  xy: 89, 86
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+103
+  rotate: false
+  xy: 89, 48
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+104
+  rotate: false
+  xy: 47, 2
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+105
+  rotate: false
+  xy: 179, 96
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+56
+  rotate: false
+  xy: 2, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+jimu.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jimu hong 1
+  rotate: false
+  xy: 464, 42
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+jimu hong 2
+  rotate: false
+  xy: 298, 10
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+jimu hong 3
+  rotate: false
+  xy: 69, 7
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+jimu hong1
+  rotate: false
+  xy: 354, 13
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+jimu hong2
+  rotate: false
+  xy: 326, 11
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+jimu hong3
+  rotate: false
+  xy: 2, 7
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+jimu huang 1
+  rotate: false
+  xy: 307, 35
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+jimu huang 2
+  rotate: false
+  xy: 428, 41
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+jimu huang1
+  rotate: false
+  xy: 350, 35
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+jimu huang2
+  rotate: false
+  xy: 392, 41
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+jimu lv 1
+  rotate: false
+  xy: 229, 15
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+jimu lv 2
+  rotate: false
+  xy: 184, 13
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+jimu lv1
+  rotate: false
+  xy: 259, 36
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+jimu lv2
+  rotate: false
+  xy: 136, 10
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+jimu lv3
+  rotate: true
+  xy: 259, 2
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1

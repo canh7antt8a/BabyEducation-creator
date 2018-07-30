@@ -1,0 +1,41 @@
+
+ji.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123
+  rotate: false
+  xy: 2, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+123(2)
+  rotate: false
+  xy: 12, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+45
+  rotate: false
+  xy: 2, 47
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+85
+  rotate: false
+  xy: 76, 104
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+86
+  rotate: false
+  xy: 2, 19
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1

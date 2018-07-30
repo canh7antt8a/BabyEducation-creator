@@ -1,0 +1,132 @@
+
+jixingmiao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tongkong
+  rotate: false
+  xy: 2, 16
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 302, 20
+  size: 272, 234
+  orig: 272, 234
+  offset: 0, 0
+  index: -1
+tou mao
+  rotate: false
+  xy: 576, 134
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+xiuzizhedang
+  rotate: false
+  xy: 673, 175
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 634, 139
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 165, 7
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 102, 2
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 576, 60
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+y5
+  rotate: true
+  xy: 802, 210
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 634, 159
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 731, 205
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 43
+  size: 298, 211
+  orig: 298, 211
+  offset: 0, 0
+  index: -1
+youbshou
+  rotate: false
+  xy: 802, 233
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+youbxiuzi
+  rotate: false
+  xy: 576, 203
+  size: 153, 51
+  orig: 153, 51
+  offset: 0, 0
+  index: -1
+zuixing 1
+  rotate: true
+  xy: 623, 121
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+zuixing 2
+  rotate: true
+  xy: 2, 6
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+zuobshou
+  rotate: false
+  xy: 138, 2
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+zuobxiuzi
+  rotate: false
+  xy: 576, 96
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1

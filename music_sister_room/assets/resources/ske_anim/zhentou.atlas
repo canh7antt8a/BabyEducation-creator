@@ -1,0 +1,27 @@
+
+zhentou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhentou 80
+  rotate: false
+  xy: 2, 19
+  size: 186, 62
+  orig: 186, 62
+  offset: 0, 0
+  index: -1
+zhentou 81
+  rotate: false
+  xy: 343, 6
+  size: 134, 75
+  orig: 134, 75
+  offset: 0, 0
+  index: -1
+zhentoutang
+  rotate: false
+  xy: 190, 2
+  size: 151, 79
+  orig: 151, 79
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ske_DflowGLH.png
+size: 69,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GLH
+  rotate: false
+  xy: 2, 2
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+huosai.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huosai1
+  rotate: true
+  xy: 177, 26
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+huosai2
+  rotate: false
+  xy: 100, 2
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+huosai3
+  rotate: false
+  xy: 2, 39
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+huosai4
+  rotate: false
+  xy: 2, 13
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+huosai5
+  rotate: false
+  xy: 91, 42
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+
+var DESIGN_WIDTH = 960;
+var DESIGN_HEIGHT = 720;
+var IS_SHOW_GUIDE = true;
+
+
+

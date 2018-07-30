@@ -1,0 +1,13 @@
+
+ske_DflowerByd.png
+size: 95,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HB
+  rotate: false
+  xy: 2, 2
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1

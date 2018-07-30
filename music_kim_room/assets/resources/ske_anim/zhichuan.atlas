@@ -1,0 +1,62 @@
+
+zhichuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianchi
+  rotate: false
+  xy: 272, 82
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+qizi
+  rotate: true
+  xy: 183, 23
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+zhichuan
+  rotate: true
+  xy: 183, 140
+  size: 156, 73
+  orig: 156, 73
+  offset: 0, 0
+  index: -1
+zhidakai
+  rotate: false
+  xy: 2, 298
+  size: 290, 209
+  orig: 290, 209
+  offset: 0, 0
+  index: -1
+zhidieqi
+  rotate: true
+  xy: 94, 18
+  size: 278, 87
+  orig: 278, 87
+  offset: 0, 0
+  index: -1
+zhidieqi1
+  rotate: true
+  xy: 2, 2
+  size: 294, 90
+  orig: 294, 90
+  offset: 0, 0
+  index: -1
+zhidieqi2
+  rotate: true
+  xy: 389, 170
+  size: 337, 87
+  orig: 337, 87
+  offset: 0, 0
+  index: -1
+zhidieqi3
+  rotate: true
+  xy: 294, 169
+  size: 338, 93
+  orig: 338, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+mao.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+115
+  rotate: false
+  xy: 2, 12
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+116
+  rotate: false
+  xy: 63, 31
+  size: 29, 24
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+117
+  rotate: false
+  xy: 2, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+117(2)
+  rotate: false
+  xy: 63, 21
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+117(2)(2)
+  rotate: false
+  xy: 12, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+119
+  rotate: false
+  xy: 122, 46
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+50
+  rotate: true
+  xy: 94, 35
+  size: 20, 26
+  orig: 20, 33
+  offset: 0, 7
+  index: -1

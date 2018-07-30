@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7968e6e4-1e47-42b5-8531-827bdda27275",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ske_honeycomb": {
+      "ver": "1.0.2",
+      "uuid": "3b9eb46d-a03b-4b03-b2f9-27ba94a92d21",
+      "rawTextureUuid": "7968e6e4-1e47-42b5-8531-827bdda27275",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -5.5,
+      "trimX": 2,
+      "trimY": 13,
+      "width": 427,
+      "height": 184,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

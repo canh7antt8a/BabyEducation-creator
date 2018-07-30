@@ -1,0 +1,57 @@
+{
+"skeleton": { "hash": "2MpfF+/hqvraYdOdlMIIS14NIPI", "spine": "2.1.27", "width": 400, "height": 496.34, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "XX", "parent": "root", "length": 31.21, "x": 1.97, "y": 241.5, "rotation": 89.54 },
+	{ "name": "3", "parent": "XX", "length": 236.06, "x": 295.17, "y": 0.04, "rotation": -179.54 },
+	{ "name": "4", "parent": "XX", "length": 118.07, "x": 17.46, "y": 5.27, "rotation": 179.54 }
+],
+"slots": [
+	{ "name": "夜景-效果图233", "bone": "root" },
+	{ "name": "白线", "bone": "root" },
+	{ "name": "XX", "bone": "XX", "attachment": "XX" },
+	{ "name": "3", "bone": "3", "attachment": "3" },
+	{ "name": "4", "bone": "4", "attachment": "4" }
+],
+"skins": {
+	"default": {
+		"3": {
+			"3": { "x": 117.32, "y": 0.08, "rotation": 89.99, "width": 5, "height": 238 }
+		},
+		"4": {
+			"4": { "x": 17.39, "y": -24.03, "rotation": 90.9, "width": 400, "height": 400 }
+		},
+		"XX": {
+			"XX": { "x": 13.8, "y": -0.33, "rotation": -89.54, "width": 131, "height": 130 }
+		}
+	}
+},
+"animations": {
+	"2": {
+		"bones": {
+			"XX": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0.48 },
+					{ "time": 1, "x": -0.01, "y": -2.15 },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.083, "y": 1.005 },
+					{ "time": 1, "x": 0.961, "y": 1.069 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"4": {
+				"translate": [
+					{ "time": 0, "x": -0.02, "y": -2.93 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.601, "y": 0.601 }
+				]
+			}
+		}
+	}
+}
+}

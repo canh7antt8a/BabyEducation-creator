@@ -1,0 +1,62 @@
+
+yang.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+55
+  rotate: false
+  xy: 2, 2
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+94
+  rotate: false
+  xy: 137, 34
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+96
+  rotate: false
+  xy: 137, 47
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+97
+  rotate: false
+  xy: 83, 3
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+98
+  rotate: false
+  xy: 153, 36
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+98(2)
+  rotate: false
+  xy: 166, 49
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+99
+  rotate: false
+  xy: 153, 48
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+99(2)
+  rotate: false
+  xy: 137, 21
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

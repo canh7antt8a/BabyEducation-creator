@@ -1,0 +1,216 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai bai1
+  rotate: false
+  xy: 128, 308
+  size: 235, 33
+  orig: 235, 33
+  offset: 0, 0
+  index: -1
+caidai bai2
+  rotate: false
+  xy: 128, 382
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai bai3
+  rotate: false
+  xy: 365, 423
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai bai4
+  rotate: false
+  xy: 128, 462
+  size: 235, 39
+  orig: 235, 39
+  offset: 0, 0
+  index: -1
+caidai bai5
+  rotate: false
+  xy: 602, 464
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai bai6
+  rotate: false
+  xy: 128, 343
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai bai7
+  rotate: false
+  xy: 365, 384
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai bai8
+  rotate: false
+  xy: 602, 425
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai hong1
+  rotate: false
+  xy: 118, 156
+  size: 235, 33
+  orig: 235, 33
+  offset: 0, 0
+  index: -1
+caidai hong2
+  rotate: false
+  xy: 365, 345
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai hong3
+  rotate: false
+  xy: 602, 386
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai hong4
+  rotate: false
+  xy: 128, 421
+  size: 235, 39
+  orig: 235, 39
+  offset: 0, 0
+  index: -1
+caidai hong5
+  rotate: false
+  xy: 602, 347
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai hong6
+  rotate: false
+  xy: 365, 306
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai hong7
+  rotate: false
+  xy: 602, 308
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai hong8
+  rotate: false
+  xy: 118, 269
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai lan1
+  rotate: false
+  xy: 355, 154
+  size: 235, 33
+  orig: 235, 33
+  offset: 0, 0
+  index: -1
+caidai lan2
+  rotate: false
+  xy: 118, 230
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai lan3
+  rotate: false
+  xy: 118, 191
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai lan4
+  rotate: false
+  xy: 365, 462
+  size: 235, 39
+  orig: 235, 39
+  offset: 0, 0
+  index: -1
+caidai lan5
+  rotate: false
+  xy: 355, 267
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai lan6
+  rotate: false
+  xy: 355, 228
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai lan7
+  rotate: false
+  xy: 355, 189
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+caidai lan8
+  rotate: false
+  xy: 107, 117
+  size: 235, 37
+  orig: 235, 37
+  offset: 0, 0
+  index: -1
+fengzheng1
+  rotate: false
+  xy: 2, 157
+  size: 114, 172
+  orig: 114, 172
+  offset: 0, 0
+  index: -1
+fengzheng2
+  rotate: false
+  xy: 107, 2
+  size: 127, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+fengzheng3
+  rotate: false
+  xy: 2, 331
+  size: 124, 170
+  orig: 124, 170
+  offset: 0, 0
+  index: -1
+fengzheng4
+  rotate: true
+  xy: 2, 5
+  size: 150, 103
+  orig: 150, 103
+  offset: 0, 0
+  index: -1
+fengzheng5
+  rotate: false
+  xy: 839, 356
+  size: 123, 145
+  orig: 123, 145
+  offset: 0, 0
+  index: -1
+shengzijiedian
+  rotate: false
+  xy: 839, 314
+  size: 98, 40
+  orig: 98, 40
+  offset: 0, 0
+  index: -1

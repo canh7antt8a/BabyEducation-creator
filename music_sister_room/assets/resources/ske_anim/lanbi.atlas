@@ -1,0 +1,62 @@
+
+lanbi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lan tuhua1
+  rotate: false
+  xy: 2, 68
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+lan tuhua2
+  rotate: true
+  xy: 40, 2
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+lan tuhua3
+  rotate: true
+  xy: 58, 16
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+lan tuhua4
+  rotate: false
+  xy: 98, 99
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+lan tuhua5
+  rotate: false
+  xy: 280, 193
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+lan zhi
+  rotate: false
+  xy: 2, 125
+  size: 276, 129
+  orig: 276, 129
+  offset: 0, 0
+  index: -1
+lanbi1
+  rotate: false
+  xy: 280, 210
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+lanbi2
+  rotate: false
+  xy: 2, 2
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+yinfu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y2
+  rotate: false
+  xy: 2, 43
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+y4
+  rotate: true
+  xy: 2, 2
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 79, 48
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1

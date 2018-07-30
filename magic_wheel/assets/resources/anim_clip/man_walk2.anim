@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "man_walk2",
+  "_objFlags": 0,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -645,
+            67
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            648,
+            67
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

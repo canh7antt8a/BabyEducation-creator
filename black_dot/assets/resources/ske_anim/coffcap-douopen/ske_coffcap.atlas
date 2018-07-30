@@ -1,0 +1,13 @@
+
+ske_coffcap.png
+size: 131,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coffecap
+  rotate: false
+  xy: 2, 2
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1

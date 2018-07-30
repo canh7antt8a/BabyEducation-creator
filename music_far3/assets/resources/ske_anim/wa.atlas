@@ -1,0 +1,62 @@
+
+wa.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 46, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+112
+  rotate: false
+  xy: 2, 26
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+113
+  rotate: true
+  xy: 2, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+113(2)
+  rotate: true
+  xy: 16, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+114
+  rotate: true
+  xy: 30, 6
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 55, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+51
+  rotate: true
+  xy: 46, 38
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+51(2)
+  rotate: true
+  xy: 46, 12
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1

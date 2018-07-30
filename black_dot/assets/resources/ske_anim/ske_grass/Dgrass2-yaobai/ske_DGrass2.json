@@ -1,0 +1,51 @@
+{
+"skeleton": { "hash": "iIQOYR7Dd+exk8jTrQAPGxFbQ5U", "spine": "2.1.27", "width": 385, "height": 362.15, "images": "../Data/grass/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "grass2-b", "parent": "root", "length": 315.16, "x": -0.4, "y": -158.18, "rotation": 90 }
+],
+"slots": [
+	{ "name": "grass2", "bone": "root", "blend": "screen" },
+	{ "name": "grass2-a", "bone": "root", "attachment": "grass2-a" },
+	{ "name": "grass2-b", "bone": "grass2-b", "attachment": "grass2-b" }
+],
+"skins": {
+	"default": {
+		"grass2-a": {
+			"grass2-a": { "x": -3.99, "y": -32.99, "width": 222, "height": 126 }
+		},
+		"grass2-b": {
+			"grass2-b": { "x": 301.83, "y": 1.62, "rotation": -90, "width": 385, "height": 245 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"grass2-b": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 4.07 },
+					{ "time": 1, "angle": 0 },
+					{ "time": 1.5, "angle": -4.13 },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 15.51, "y": 2.81 },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": -16.82, "y": 1.29 },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 0.988, "y": 0.982 },
+					{ "time": 1, "x": 1, "y": 1 },
+					{ "time": 1.5, "x": 0.988, "y": 0.999 },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

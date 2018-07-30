@@ -1,0 +1,20 @@
+
+ske_DflowerC1.png
+size: 67,51
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HC_a
+  rotate: true
+  xy: 2, 2
+  size: 8, 58
+  orig: 8, 58
+  offset: 0, 0
+  index: -1
+HC_b
+  rotate: false
+  xy: 2, 12
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1

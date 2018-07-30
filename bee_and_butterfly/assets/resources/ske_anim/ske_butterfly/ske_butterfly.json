@@ -1,0 +1,57 @@
+{
+"skeleton": { "hash": "zowW/WwKUI7SRpt2K8Ej1gvDuZc", "spine": "2.1.27", "width": 366.98, "height": 263.21, "images": "" },
+"bones": [
+	{ "name": "root", "x": -1.99, "scaleX": 0.391, "scaleY": 0.452 },
+	{ "name": "hudie", "parent": "root", "length": 351.49, "x": 4.19, "y": 93.43, "rotation": -89.09 },
+	{ "name": "chibangyou", "parent": "hudie", "length": 127.35, "x": 137.82, "y": 4.16, "rotation": 87.27 },
+	{ "name": "chibangzuo", "parent": "hudie", "length": 117.14, "x": 137.71, "y": -1.89, "rotation": -90.9 }
+],
+"slots": [
+	{ "name": "hudie", "bone": "hudie", "attachment": "hudie" },
+	{ "name": "chibangyou", "bone": "chibangyou", "attachment": "chibangyou" },
+	{ "name": "chibangzuo", "bone": "chibangzuo", "attachment": "chibangzuo" }
+],
+"skins": {
+	"default": {
+		"chibangyou": {
+			"chibangyou": { "x": 188.65, "y": 57.69, "rotation": 1.82, "width": 567, "height": 567 }
+		},
+		"chibangzuo": {
+			"chibangzuo": { "x": 172.33, "y": -38.5, "rotation": 180, "width": 567, "height": 567 }
+		},
+		"hudie": {
+			"hudie": { "x": 86.25, "y": -2.34, "rotation": 89.09, "width": 567, "height": 567 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"hudie": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"chibangzuo": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0666, "x": 0.74, "y": 1 },
+					{ "time": 0.1666, "x": 0.607, "y": 1 },
+					{ "time": 0.2666, "x": 0.935, "y": 1 },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"chibangyou": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0666, "x": 0.663, "y": 1 },
+					{ "time": 0.1666, "x": 0.596, "y": 1 },
+					{ "time": 0.2666, "x": 0.915, "y": 1 },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

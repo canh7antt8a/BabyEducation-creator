@@ -1,0 +1,27 @@
+
+wanjuqiang.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haitun
+  rotate: false
+  xy: 2, 18
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 2, 2
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+wanjuqiang
+  rotate: false
+  xy: 71, 32
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1

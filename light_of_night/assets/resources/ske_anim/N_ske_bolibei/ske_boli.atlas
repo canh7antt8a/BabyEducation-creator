@@ -1,0 +1,13 @@
+
+ske_boli.png
+size: 64,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 2
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1

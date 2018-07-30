@@ -1,0 +1,7 @@
+var DESIGN_WIDTH = 960;
+var DESIGN_HEIGHT = 540;
+var PERFECT = 0.5;
+var GREAT = 0.8;
+
+
+

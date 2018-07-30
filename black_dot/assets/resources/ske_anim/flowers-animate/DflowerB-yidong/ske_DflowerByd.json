@@ -1,0 +1,51 @@
+{
+"skeleton": { "hash": "fmz/DfHwhyIEaotozxcDgmFmmNw", "spine": "2.1.27", "width": 181.99, "height": 220.99, "images": "../Data/flowers/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "HB", "parent": "root", "length": 141.17, "x": -5.03, "y": -97.26, "rotation": 82.81 }
+],
+"slots": [
+	{ "name": "HB", "bone": "HB", "attachment": "HB" }
+],
+"skins": {
+	"default": {
+		"HB": {
+			"HB": { "x": 100.74, "y": -17.19, "rotation": -82.81, "width": 182, "height": 221 }
+		}
+	}
+},
+"events": {
+	"yaobai": {}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"HB": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.8, "angle": -36.47 },
+					{ "time": 0.9666, "angle": -41.06 },
+					{ "time": 1.0666, "angle": -42.62 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 21.48, "y": 0 },
+					{ "time": 0.9666, "x": 31.86, "y": -2.96 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1666, "x": 0.933, "y": 1 },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.8, "x": 0.9, "y": 1 },
+					{ "time": 0.9666, "x": 0.956, "y": 1 },
+					{ "time": 1.0666, "x": 0.992, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "da891a10-2290-4cf2-8ab6-5a449bceafc6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ske_DflowerB": {
+      "ver": "1.0.3",
+      "uuid": "657d4c60-9a47-4f22-ac9a-811229a77c2c",
+      "rawTextureUuid": "da891a10-2290-4cf2-8ab6-5a449bceafc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 96,
+      "height": 116,
+      "rawWidth": 100,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

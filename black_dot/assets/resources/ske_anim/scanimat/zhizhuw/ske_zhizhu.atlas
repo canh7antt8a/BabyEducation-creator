@@ -1,0 +1,13 @@
+
+ske_zhizhu.png
+size: 80,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZZW
+  rotate: false
+  xy: 2, 2
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1

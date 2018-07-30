@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1ee37e14-2b6f-42a1-a005-a8607f10e47a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "A4": {
+      "ver": "1.0.2",
+      "uuid": "31e87d16-23c9-4b99-b8bf-351245d13a00",
+      "rawTextureUuid": "1ee37e14-2b6f-42a1-a005-a8607f10e47a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -6.5,
+      "trimX": 31,
+      "trimY": 42,
+      "width": 72,
+      "height": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

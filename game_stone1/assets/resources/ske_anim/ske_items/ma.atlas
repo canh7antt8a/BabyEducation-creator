@@ -1,0 +1,55 @@
+
+ma.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ma121
+  rotate: false
+  xy: 144, 43
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+ma126
+  rotate: false
+  xy: 2, 118
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+ma53
+  rotate: true
+  xy: 130, 119
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+ma83
+  rotate: true
+  xy: 2, 2
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+ma84
+  rotate: false
+  xy: 105, 28
+  size: 37, 88
+  orig: 37, 88
+  offset: 0, 0
+  index: -1
+ma84(2)
+  rotate: false
+  xy: 56, 31
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+ma84(2)(2)
+  rotate: false
+  xy: 2, 31
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+swpd_logo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_deng
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0001_logo
+  rotate: false
+  xy: 2, 57
+  size: 702, 358
+  orig: 702, 358
+  offset: 0, 0
+  index: -1

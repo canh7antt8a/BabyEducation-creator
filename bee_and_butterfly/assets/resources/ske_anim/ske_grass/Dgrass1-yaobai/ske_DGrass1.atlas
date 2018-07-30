@@ -1,0 +1,20 @@
+
+ske_DGrass1.png
+size: 259,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grass1-a
+  rotate: true
+  xy: 196, 18
+  size: 110, 61
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+grass1-b
+  rotate: false
+  xy: 2, 2
+  size: 192, 126
+  orig: 192, 126
+  offset: 0, 0
+  index: -1

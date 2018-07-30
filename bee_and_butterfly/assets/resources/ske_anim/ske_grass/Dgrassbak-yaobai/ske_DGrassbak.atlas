@@ -1,0 +1,13 @@
+
+ske_DGrassbak.png
+size: 878,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grases-back
+  rotate: false
+  xy: 2, 2
+  size: 874, 245
+  orig: 874, 245
+  offset: 0, 0
+  index: -1

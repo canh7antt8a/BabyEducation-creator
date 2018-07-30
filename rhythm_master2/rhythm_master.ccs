@@ -1,0 +1,59 @@
+<Solution>
+  <PropertyGroup Name="rhythm_master" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="checkout_scene">
+          <Image Name="checkout_cat1.png" />
+          <Image Name="checkout_cat2.png" />
+          <Image Name="checkout_cat3.png" />
+          <Image Name="checkout_cat4.png" />
+          <Image Name="h_type_1.png" />
+          <Image Name="h_type_2.png" />
+          <Image Name="h_type_3.png" />
+          <Image Name="h_type_4.png" />
+          <Image Name="h_type_5.png" />
+          <Image Name="mengban.png" />
+          <Image Name="replay.png" />
+          <Image Name="replay_down.png" />
+          <Image Name="s2.png" />
+        </Folder>
+        <Folder Name="game_scene">
+          <Image Name="background.png" />
+          <Image Name="jx_miao_1.png" />
+          <Image Name="jx_miao_2.png" />
+          <Image Name="jx_miao_3.png" />
+          <Image Name="jx_miao_4.png" />
+          <Image Name="jx_miao_5.png" />
+          <Image Name="jx_miao_6.png" />
+          <Image Name="left_button.png" />
+          <Image Name="moon.png" />
+          <Image Name="play_action_1.png" />
+          <Image Name="star.png" />
+        </Folder>
+        <Folder Name="loading_scene">
+          <Image Name="loading.png" />
+          <Image Name="xiangjiao.png" />
+          <Image Name="xiangjiao_back.png" />
+        </Folder>
+        <Folder Name="start_scene">
+          <Image Name="back_ground.png" />
+          <Image Name="clound_ld.png" />
+          <Image Name="clound_rd.png" />
+          <Image Name="left_cloud.png" />
+          <Image Name="left_tital.png" />
+          <Image Name="right_clound.png" />
+          <Image Name="right_tital.png" />
+          <Image Name="small_tree.png" />
+          <Image Name="start_button.png" />
+          <Image Name="tital.png" />
+          <Image Name="tree_back.png" />
+          <Image Name="tree_leaves.png" />
+        </Folder>
+        <Project Name="game_scene.csd" Type="Scene" />
+        <Project Name="loading.csd" Type="Scene" />
+        <Project Name="start_game.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,48 @@
+
+ske_honeycomb.png
+size: 431,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 13
+  size: 184, 211
+  orig: 184, 211
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 400, 139
+  size: 28, 28
+  orig: 43, 41
+  offset: 6, 8
+  index: -1
+4
+  rotate: false
+  xy: 215, 2
+  size: 183, 195
+  orig: 200, 200
+  offset: 17, 5
+  index: -1
+ZZZ
+  rotate: true
+  xy: 400, 169
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+ZZZ (2)
+  rotate: true
+  xy: 400, 169
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+ZZZ (3)
+  rotate: true
+  xy: 400, 169
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

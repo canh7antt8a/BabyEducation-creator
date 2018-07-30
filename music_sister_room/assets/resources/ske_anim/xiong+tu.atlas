@@ -1,0 +1,83 @@
+
+xiong+tu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taoxin
+  rotate: false
+  xy: 969, 135
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+tuzi
+  rotate: false
+  xy: 451, 107
+  size: 224, 131
+  orig: 224, 131
+  offset: 0, 0
+  index: -1
+tuzi yifu
+  rotate: false
+  xy: 2, 76
+  size: 205, 162
+  orig: 205, 162
+  offset: 0, 0
+  index: -1
+tuzi yinying
+  rotate: false
+  xy: 209, 115
+  size: 240, 123
+  orig: 240, 123
+  offset: 0, 0
+  index: -1
+xiong jiaozhang
+  rotate: true
+  xy: 969, 166
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+xiong limao
+  rotate: false
+  xy: 853, 68
+  size: 114, 170
+  orig: 114, 170
+  offset: 0, 0
+  index: -1
+xiong shenti
+  rotate: true
+  xy: 677, 124
+  size: 114, 174
+  orig: 114, 174
+  offset: 0, 0
+  index: -1
+xiong yinying
+  rotate: false
+  xy: 2, 28
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+xiong youbjiao
+  rotate: true
+  xy: 209, 84
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+xiong youbshou
+  rotate: true
+  xy: 82, 37
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+xiong zuobjiao
+  rotate: true
+  xy: 2, 2
+  size: 24, 74
+  orig: 24, 74
+  offset: 0, 0
+  index: -1

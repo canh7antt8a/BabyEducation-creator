@@ -1,0 +1,55 @@
+
+yifu.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: true
+  xy: 2, 8
+  size: 51, 112
+  orig: 51, 112
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 236, 25
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 196, 25
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 155, 25
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+y4
+  rotate: true
+  xy: 155, 3
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+y5
+  rotate: true
+  xy: 191, 2
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 116, 17
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1

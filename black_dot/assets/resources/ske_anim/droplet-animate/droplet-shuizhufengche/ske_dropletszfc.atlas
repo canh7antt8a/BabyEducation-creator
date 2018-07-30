@@ -1,0 +1,55 @@
+
+ske_dropletszfc.png
+size: 536,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antchengbao/antcb
+  rotate: false
+  xy: 2, 300
+  size: 425, 225
+  orig: 430, 225
+  offset: 0, 0
+  index: -1
+antchengbao/antzhezhao
+  rotate: true
+  xy: 423, 182
+  size: 116, 111
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+antchengbao/fcjy
+  rotate: false
+  xy: 260, 51
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+antchengbao/fczz
+  rotate: true
+  xy: 2, 2
+  size: 17, 73
+  orig: 17, 73
+  offset: 0, 0
+  index: -1
+droplet-2
+  rotate: false
+  xy: 423, 132
+  size: 111, 48
+  orig: 111, 48
+  offset: 0, 0
+  index: -1
+dropletgrass
+  rotate: false
+  xy: 2, 21
+  size: 256, 59
+  orig: 256, 59
+  offset: 0, 0
+  index: -1
+dropletgrass2
+  rotate: false
+  xy: 2, 82
+  size: 419, 216
+  orig: 419, 216
+  offset: 0, 0
+  index: -1

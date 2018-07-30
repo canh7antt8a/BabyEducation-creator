@@ -1,0 +1,27 @@
+
+ske_butterfly.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibangyou
+  rotate: true
+  xy: 271, 2
+  size: 212, 266
+  orig: 284, 284
+  offset: 47, 8
+  index: -1
+chibangzuo
+  rotate: true
+  xy: 2, 2
+  size: 212, 267
+  orig: 284, 284
+  offset: 17, 11
+  index: -1
+hudie
+  rotate: true
+  xy: 539, 28
+  size: 186, 267
+  orig: 284, 284
+  offset: 70, 10
+  index: -1

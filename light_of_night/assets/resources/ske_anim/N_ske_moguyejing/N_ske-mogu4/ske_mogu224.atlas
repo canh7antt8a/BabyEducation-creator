@@ -1,0 +1,13 @@
+
+ske_mogu224.png
+size: 80,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogu224
+  rotate: false
+  xy: 2, 2
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1

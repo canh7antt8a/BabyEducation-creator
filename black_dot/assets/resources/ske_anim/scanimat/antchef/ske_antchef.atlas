@@ -1,0 +1,55 @@
+
+ske_antchef.png
+size: 93,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h2
+  rotate: false
+  xy: 70, 7
+  size: 10, 22
+  orig: 71, 85
+  offset: 28, 21
+  index: -1
+h3
+  rotate: true
+  xy: 77, 31
+  size: 17, 12
+  orig: 71, 85
+  offset: 13, 32
+  index: -1
+hand
+  rotate: true
+  xy: 82, 17
+  size: 12, 9
+  orig: 71, 85
+  offset: 28, 32
+  index: -1
+left
+  rotate: false
+  xy: 77, 50
+  size: 13, 24
+  orig: 71, 85
+  offset: 33, 6
+  index: -1
+mayi
+  rotate: false
+  xy: 2, 4
+  size: 17, 70
+  orig: 71, 85
+  offset: 41, 4
+  index: -1
+shenti
+  rotate: true
+  xy: 21, 45
+  size: 29, 54
+  orig: 71, 85
+  offset: 29, 19
+  index: -1
+tou
+  rotate: true
+  xy: 21, 2
+  size: 41, 47
+  orig: 71, 85
+  offset: 16, 32
+  index: -1

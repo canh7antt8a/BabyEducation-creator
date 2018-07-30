@@ -1,0 +1,27 @@
+
+skele_mogu.png
+size: 442,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 323, 323
+  orig: 450, 450
+  offset: 64, 72
+  index: -1
+4
+  rotate: true
+  xy: 327, 173
+  size: 152, 113
+  orig: 152, 113
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 327, 96
+  size: 76, 75
+  orig: 77, 75
+  offset: 1, 0
+  index: -1

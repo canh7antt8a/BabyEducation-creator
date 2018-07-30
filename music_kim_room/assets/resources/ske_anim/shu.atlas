@@ -1,0 +1,62 @@
+
+shu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangbangtang
+  rotate: false
+  xy: 143, 32
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+dixian
+  rotate: false
+  xy: 143, 92
+  size: 167, 58
+  orig: 167, 58
+  offset: 0, 0
+  index: -1
+huangxing
+  rotate: false
+  xy: 2, 2
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 224, 152
+  size: 162, 99
+  orig: 162, 99
+  offset: 0, 0
+  index: -1
+shudakai1
+  rotate: false
+  xy: 2, 23
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+shudakai2
+  rotate: false
+  xy: 2, 155
+  size: 220, 96
+  orig: 220, 96
+  offset: 0, 0
+  index: -1
+shuguanbi
+  rotate: true
+  xy: 388, 107
+  size: 144, 95
+  orig: 144, 95
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 312, 103
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1

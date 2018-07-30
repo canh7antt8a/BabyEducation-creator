@@ -1,0 +1,139 @@
+
+ske_work.png
+size: 219,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GZ1
+  rotate: false
+  xy: 110, 5
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+GZ2
+  rotate: true
+  xy: 119, 121
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+MFH1
+  rotate: true
+  xy: 2, 11
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+MFH2
+  rotate: true
+  xy: 2, 105
+  size: 160, 115
+  orig: 160, 115
+  offset: 0, 0
+  index: -1
+cb
+  rotate: true
+  xy: 142, 122
+  size: 8, 19
+  orig: 348, 384
+  offset: 232, 263
+  index: -1
+cb1
+  rotate: false
+  xy: 163, 115
+  size: 8, 15
+  orig: 348, 384
+  offset: 225, 263
+  index: -1
+fengmi
+  rotate: true
+  xy: 181, 183
+  size: 47, 31
+  orig: 348, 384
+  offset: 205, 260
+  index: -1
+gear
+  rotate: true
+  xy: 181, 232
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+gear2
+  rotate: true
+  xy: 181, 118
+  size: 63, 8
+  orig: 63, 8
+  offset: 0, 0
+  index: -1
+mf
+  rotate: false
+  xy: 131, 121
+  size: 9, 9
+  orig: 348, 384
+  offset: 222, 272
+  index: -1
+mf1
+  rotate: false
+  xy: 194, 7
+  size: 15, 31
+  orig: 348, 384
+  offset: 223, 260
+  index: -1
+mf2
+  rotate: false
+  xy: 211, 30
+  size: 6, 8
+  orig: 348, 384
+  offset: 236, 279
+  index: -1
+mf3
+  rotate: true
+  xy: 203, 2
+  size: 3, 6
+  orig: 348, 384
+  offset: 232, 265
+  index: -1
+mf4
+  rotate: true
+  xy: 194, 2
+  size: 3, 7
+  orig: 348, 384
+  offset: 238, 265
+  index: -1
+shengzi4
+  rotate: false
+  xy: 211, 4
+  size: 3, 24
+  orig: 348, 384
+  offset: 136, 272
+  index: -1
+shengzi5
+  rotate: true
+  xy: 2, 6
+  size: 3, 42
+  orig: 348, 384
+  offset: 54, 250
+  index: -1
+shenzi3
+  rotate: true
+  xy: 119, 132
+  size: 133, 60
+  orig: 348, 384
+  offset: 52, 272
+  index: -1
+wood
+  rotate: true
+  xy: 149, 6
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+wood2
+  rotate: false
+  xy: 110, 40
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "left_yezi_move0",
+  "_objFlags": 0,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -879,
+            -561
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            -749,
+            -917
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

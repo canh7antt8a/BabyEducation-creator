@@ -1,0 +1,34 @@
+
+luosi.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+luosiding1
+  rotate: false
+  xy: 45, 12
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+luosiding2
+  rotate: true
+  xy: 74, 12
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+mogu1
+  rotate: false
+  xy: 24, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+mogu2
+  rotate: false
+  xy: 2, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

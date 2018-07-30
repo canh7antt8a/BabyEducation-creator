@@ -1,0 +1,27 @@
+
+ske_xingxing.png
+size: 255,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 187, 11
+  size: 3, 119
+  orig: 3, 119
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 183, 195
+  orig: 200, 200
+  offset: 17, 5
+  index: -1
+XX
+  rotate: false
+  xy: 187, 132
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1

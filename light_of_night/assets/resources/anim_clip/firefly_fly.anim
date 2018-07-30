@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "firefly_fly",
+  "_objFlags": 0,
+  "_duration": 0.07,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9c016804-5a18-49b0-99f4-bbb29ffa0693"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "dd100d78-7dfb-4486-881f-195a22156824"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "c7f90325-d2ab-42eb-ab3f-f5c2eaf37623"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "dd100d78-7dfb-4486-881f-195a22156824"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

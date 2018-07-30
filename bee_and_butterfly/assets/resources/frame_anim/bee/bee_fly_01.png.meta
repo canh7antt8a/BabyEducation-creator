@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e2bd4729-3f91-401f-b317-188374dc8dba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bee_fly_01": {
+      "ver": "1.0.3",
+      "uuid": "aef2a426-5106-4095-8b0d-b43612c7a2af",
+      "rawTextureUuid": "e2bd4729-3f91-401f-b317-188374dc8dba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 21.5,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 48,
+      "height": 51,
+      "rawWidth": 50,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

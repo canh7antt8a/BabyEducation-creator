@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "coff_ant_move",
+  "_objFlags": 0,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -572,
+            -377
+          ],
+          "motionPath": [
+            [
+              -249,
+              -410,
+              -402,
+              -416,
+              -119,
+              -406
+            ]
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -3,
+            -356
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

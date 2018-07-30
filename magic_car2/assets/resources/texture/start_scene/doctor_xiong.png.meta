@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "966038de-14fb-4d2c-b40f-079cb5acdc6e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "doctor_xiong": {
+      "ver": "1.0.3",
+      "uuid": "b7fb8781-6034-4ab8-8164-a49c3619a361",
+      "rawTextureUuid": "966038de-14fb-4d2c-b40f-079cb5acdc6e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 316,
+      "height": 514,
+      "rawWidth": 316,
+      "rawHeight": 514,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+ske_cao2.png
+size: 238,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grass2-a
+  rotate: true
+  xy: 199, 51
+  size: 97, 37
+  orig: 102, 39
+  offset: 3, 0
+  index: -1
+grass2-b
+  rotate: false
+  xy: 2, 2
+  size: 195, 146
+  orig: 195, 147
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+ske_beesport.png
+size: 78,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 2, 2
+  size: 9, 12
+  orig: 23, 26
+  offset: 1, 6
+  index: -1
+chibang2
+  rotate: false
+  xy: 51, 13
+  size: 12, 14
+  orig: 23, 26
+  offset: 11, 6
+  index: -1
+fengmi
+  rotate: false
+  xy: 2, 13
+  size: 47, 31
+  orig: 348, 384
+  offset: 205, 260
+  index: -1
+guanzi
+  rotate: true
+  xy: 16, 2
+  size: 9, 7
+  orig: 23, 26
+  offset: 4, 0
+  index: -1
+shen
+  rotate: false
+  xy: 65, 16
+  size: 11, 11
+  orig: 23, 26
+  offset: 7, 1
+  index: -1
+shou
+  rotate: false
+  xy: 31, 4
+  size: 3, 7
+  orig: 23, 26
+  offset: 10, 2
+  index: -1
+shou1
+  rotate: false
+  xy: 25, 5
+  size: 4, 6
+  orig: 23, 26
+  offset: 5, 4
+  index: -1
+tou
+  rotate: true
+  xy: 51, 29
+  size: 15, 17
+  orig: 23, 26
+  offset: 0, 9
+  index: -1

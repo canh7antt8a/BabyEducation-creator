@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "man_walk1",
+  "_objFlags": 0,
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 0,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -537,
+            -36
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            -231,
+            -38
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            -175.1,
+            18.3
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            26,
+            18.3
+          ]
+        },
+        {
+          "frame": 0.45,
+          "value": [
+            79.8,
+            75.4
+          ]
+        },
+        {
+          "frame": 0.5333333333333333,
+          "value": [
+            147.8,
+            75.4
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            203.2,
+            18.9
+          ]
+        },
+        {
+          "frame": 0.7666666666666667,
+          "value": [
+            533,
+            16
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,13 @@
+
+ske_hua2.png
+size: 100,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HB
+  rotate: false
+  xy: 2, 2
+  size: 96, 116
+  orig: 96, 116
+  offset: 0, 0
+  index: -1

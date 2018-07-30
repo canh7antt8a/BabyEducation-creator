@@ -1,0 +1,14 @@
+info face="Arial" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=32 base=26 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="top_0.png"
+chars count=10
+char id=48   x=0     y=282   width=129   height=135   xoffset=0     yoffset=0     xadvance=129   page=0  chnl=15
+char id=49   x=380   y=141   width=77    height=136   xoffset=0     yoffset=0     xadvance=77    page=0  chnl=15
+char id=50   x=130   y=0     width=127   height=140   xoffset=0     yoffset=0     xadvance=127   page=0  chnl=15
+char id=51   x=124   y=142   width=126   height=138   xoffset=0     yoffset=0     xadvance=126   page=0  chnl=15
+char id=52   x=0     y=0     width=129   height=141   xoffset=0     yoffset=0     xadvance=129   page=0  chnl=15
+char id=53   x=251   y=141   width=128   height=136   xoffset=0     yoffset=0     xadvance=128   page=0  chnl=15
+char id=54   x=0     y=142   width=123   height=139   xoffset=0     yoffset=0     xadvance=123   page=0  chnl=15
+char id=55   x=381   y=0     width=117   height=140   xoffset=0     yoffset=0     xadvance=117   page=0  chnl=15
+char id=56   x=130   y=281   width=128   height=134   xoffset=0     yoffset=0     xadvance=128   page=0  chnl=15
+char id=57   x=258   y=0     width=122   height=140   xoffset=0     yoffset=0     xadvance=122   page=0  chnl=15

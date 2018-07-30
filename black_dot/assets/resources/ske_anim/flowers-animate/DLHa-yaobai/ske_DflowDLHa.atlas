@@ -1,0 +1,27 @@
+
+ske_DflowDLHa.png
+size: 321,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DLHa-a
+  rotate: true
+  xy: 131, 2
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+DLHa-b
+  rotate: false
+  xy: 233, 10
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+DLHa-c
+  rotate: false
+  xy: 2, 19
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1

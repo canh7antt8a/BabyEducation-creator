@@ -1,0 +1,13 @@
+
+ske_yun1.png
+size: 198,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y1
+  rotate: false
+  xy: 2, 2
+  size: 194, 66
+  orig: 194, 66
+  offset: 0, 0
+  index: -1

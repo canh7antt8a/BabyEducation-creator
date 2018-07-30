@@ -1,0 +1,20 @@
+
+ske_dropletszfc.png
+size: 145,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antchengbao/fcjy
+  rotate: false
+  xy: 2, 2
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+antchengbao/fczz
+  rotate: false
+  xy: 105, 52
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1

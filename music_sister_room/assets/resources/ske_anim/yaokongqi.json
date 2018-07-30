@@ -1,0 +1,114 @@
+{
+"skeleton": { "hash": "fEfQurhBxvUCNIw0WxlfOvW9Y4k", "spine": "2.1.27", "width": 430, "height": 304, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -8.13, "y": 121.18 },
+	{ "name": "bone2", "parent": "root", "x": 3.06, "y": 102.52 },
+	{ "name": "bone3", "parent": "root", "x": 13.01, "y": 92.57 },
+	{ "name": "bone4", "parent": "root", "x": 20.48, "y": 37.21 }
+],
+"slots": [
+	{ "name": "yaokongqiyinying", "bone": "bone4", "attachment": "yaokongqiyinying" },
+	{ "name": "yaokongqiguang", "bone": "bone3", "attachment": "yaokongqiguang" },
+	{ "name": "yaokongqi", "bone": "bone2", "attachment": "yaokongqi" },
+	{ "name": "hongdeng", "bone": "bone", "attachment": "hongdeng" }
+],
+"skins": {
+	"default": {
+		"hongdeng": {
+			"hongdeng": { "x": -0.79, "y": -1.11, "width": 49, "height": 35 }
+		},
+		"yaokongqi": {
+			"yaokongqi": { "x": -21.99, "y": -18.45, "width": 369, "height": 243 }
+		},
+		"yaokongqiguang": {
+			"yaokongqiguang": { "x": -32.44, "y": -8, "width": 430, "height": 304 }
+		},
+		"yaokongqiyinying": {
+			"yaokongqiyinying": { "x": -59.4, "y": 52.35, "width": 329, "height": 176 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"hongdeng": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1666, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.1666, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 1.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.1666, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3.3333, "color": "ffffffff" },
+					{ "time": 3.6666, "color": "ffffff00" }
+				]
+			},
+			"yaokongqiguang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3.3333, "color": "ffffffff" },
+					{ "time": 3.6666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"hongdeng": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"yaokongqiguang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

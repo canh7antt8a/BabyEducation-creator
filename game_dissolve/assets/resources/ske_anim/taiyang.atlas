@@ -1,0 +1,33 @@
+
+taiyang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taiyang
+  rotate: false
+  xy: 2, 2
+  size: 206, 220
+  orig: 206, 220
+  offset: 0, 0
+  index: -1
+taiyangguang1
+  rotate: false
+  xy: 2, 224
+  size: 954, 677
+  orig: 954, 677
+  offset: 0, 0
+  index: -1
+
+taiyang2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taiyangguang2
+  rotate: false
+  xy: 2, 2
+  size: 448, 468
+  orig: 448, 468
+  offset: 0, 0
+  index: -1

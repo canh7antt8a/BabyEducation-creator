@@ -1,0 +1,55 @@
+
+lvbi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv tuhua1
+  rotate: false
+  xy: 198, 49
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+lv tuhua2
+  rotate: false
+  xy: 291, 77
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+lv tuhua3
+  rotate: false
+  xy: 291, 35
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+lv tuhua4
+  rotate: false
+  xy: 2, 2
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+lv zhi
+  rotate: false
+  xy: 2, 28
+  size: 194, 97
+  orig: 194, 97
+  offset: 0, 0
+  index: -1
+lvbi1
+  rotate: false
+  xy: 438, 82
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+lvbi2
+  rotate: true
+  xy: 366, 75
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1

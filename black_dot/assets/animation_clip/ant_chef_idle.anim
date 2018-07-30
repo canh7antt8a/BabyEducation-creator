@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ant_chef_idle",
+  "_objFlags": 0,
+  "_duration": 1.35,
+  "sample": 60,
+  "speed": 2.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "efec9c88-a68e-4472-8594-0ed6955a2d1c"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "fee1b645-cd52-4d32-bf56-cf2cefc3e711"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "b3d2a336-bc55-4b48-b875-419324a46e49"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "fee1b645-cd52-4d32-bf56-cf2cefc3e711"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "efec9c88-a68e-4472-8594-0ed6955a2d1c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

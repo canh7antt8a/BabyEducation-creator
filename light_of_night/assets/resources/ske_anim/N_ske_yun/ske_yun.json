@@ -1,0 +1,62 @@
+{
+"skeleton": { "hash": "rKwikAkvxrrQ5jIDt36DBHHCTEs", "spine": "2.1.27", "width": 833.94, "height": 885.32, "images": "E:/余斯稳/sinp/3/夜景/云/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "云-夜景", "parent": "root", "length": 218.4, "x": 9.61, "y": 99.21, "rotation": 79.73 },
+	{ "name": "云2-夜景", "parent": "root", "length": 140.31, "x": -18.87, "y": -240.46, "rotation": 69.94 },
+	{ "name": "云3-夜景", "parent": "root", "length": 257.57, "x": 46.53, "y": -558.3, "rotation": 89.09 }
+],
+"slots": [
+	{ "name": "云-夜景", "bone": "云-夜景", "attachment": "云-夜景" },
+	{ "name": "云2-夜景", "bone": "云2-夜景", "attachment": "云2-夜景" },
+	{ "name": "云3-夜景", "bone": "云3-夜景", "attachment": "云3-夜景" }
+],
+"skins": {
+	"default": {
+		"云-夜景": {
+			"云-夜景": { "x": 97.74, "y": 61.17, "rotation": -79.73, "width": 834, "height": 235 }
+		},
+		"云2-夜景": {
+			"云2-夜景": { "x": 61.87, "y": 40.02, "rotation": -69.94, "width": 514, "height": 147 }
+		},
+		"云3-夜景": {
+			"云3-夜景": { "x": 128.07, "y": 44.96, "rotation": -89.09, "width": 752, "height": 264 }
+		}
+	}
+},
+"animations": {
+	"yun1": {
+		"bones": {
+			"云-夜景": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 1.095, "y": 1.034 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"yun2": {
+		"bones": {
+			"云2-夜景": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 1.117, "y": 1.066 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"yun3": {
+		"bones": {
+			"云3-夜景": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 1.084, "y": 1.059 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

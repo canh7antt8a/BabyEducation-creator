@@ -1,0 +1,62 @@
+
+taideng.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taideng guang
+  rotate: true
+  xy: 2, 2
+  size: 117, 254
+  orig: 117, 254
+  offset: 0, 0
+  index: -1
+taideng zhao
+  rotate: true
+  xy: 430, 31
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+taideng zuo
+  rotate: true
+  xy: 258, 57
+  size: 62, 170
+  orig: 62, 170
+  offset: 0, 0
+  index: -1
+taideng192
+  rotate: false
+  xy: 268, 48
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+taideng192  1
+  rotate: false
+  xy: 568, 112
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+taideng192  2
+  rotate: false
+  xy: 258, 37
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+taideng192  3
+  rotate: false
+  xy: 568, 103
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+taideng192  4
+  rotate: false
+  xy: 258, 47
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+yaokongqi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongdeng
+  rotate: true
+  xy: 2, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+yaokongqi
+  rotate: false
+  xy: 2, 14
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+yaokongqiguang
+  rotate: false
+  xy: 2, 65
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+yaokongqiyinying
+  rotate: true
+  xy: 90, 60
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1

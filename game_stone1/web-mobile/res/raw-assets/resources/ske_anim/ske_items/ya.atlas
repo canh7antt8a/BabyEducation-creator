@@ -1,0 +1,55 @@
+
+ya.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+106
+  rotate: false
+  xy: 2, 12
+  size: 50, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+107
+  rotate: true
+  xy: 116, 15
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+108
+  rotate: true
+  xy: 2, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+109
+  rotate: false
+  xy: 54, 7
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+110
+  rotate: true
+  xy: 104, 23
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+111
+  rotate: false
+  xy: 85, 9
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+57
+  rotate: false
+  xy: 54, 24
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1

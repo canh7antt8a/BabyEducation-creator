@@ -1,0 +1,27 @@
+
+ske_yun.png
+size: 261,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ÔÆ-Ò¹¾°
+  rotate: true
+  xy: 2, 78
+  size: 417, 118
+  orig: 417, 118
+  offset: 0, 0
+  index: -1
+ÔÆ2-Ò¹¾°
+  rotate: false
+  xy: 2, 2
+  size: 257, 74
+  orig: 257, 74
+  offset: 0, 0
+  index: -1
+ÔÆ3-Ò¹¾°
+  rotate: true
+  xy: 122, 119
+  size: 376, 132
+  orig: 376, 132
+  offset: 0, 0
+  index: -1

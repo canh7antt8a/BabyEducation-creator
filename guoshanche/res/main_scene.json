@@ -1,0 +1,374 @@
+{
+  "ID": "1bc3633f-41ff-4ce2-aab1-b3751a8d8886",
+  "Version": "3.10.0.0",
+  "Name": "main_scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 480.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 480.0,
+            "RightMargin": 480.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 5,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "zhujiemian.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.7437,
+                  "ScaleY": 0.2472
+                },
+                "Position": {
+                  "X": 233.9999,
+                  "Y": -182.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -479.9521,
+                "RightMargin": -480.0479,
+                "TopMargin": -360.016,
+                "BottomMargin": -359.984,
+                "Tag": 6,
+                "ActionTag": 533716848,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 720.0
+                },
+                "Name": "main_scene_bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "guang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5067,
+                  "ScaleY": 0.4993
+                },
+                "Position": {
+                  "X": 251.27,
+                  "Y": -180.4249
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -204.7872,
+                "RightMargin": -695.2128,
+                "TopMargin": -270.1682,
+                "BottomMargin": -629.8318,
+                "Tag": 27,
+                "ActionTag": 994834587,
+                "Size": {
+                  "X": 900.0,
+                  "Y": 900.0
+                },
+                "Name": "guang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "start_down.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "start_down.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "start_up.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 312,
+                "Scale9Height": 128,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 246.0,
+                  "Y": -176.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 75.0,
+                "RightMargin": -417.0,
+                "TopMargin": 101.0,
+                "BottomMargin": -251.0,
+                "Tag": 7,
+                "ActionTag": -767784007,
+                "Size": {
+                  "X": 342.0,
+                  "Y": 150.0
+                },
+                "Name": "game_start",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "zi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -181.4299,
+                  "Y": 174.9496
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -426.4299,
+                "RightMargin": -63.5701,
+                "TopMargin": -226.4496,
+                "BottomMargin": 123.4496,
+                "Tag": 28,
+                "ActionTag": -1620408446,
+                "Size": {
+                  "X": 490.0,
+                  "Y": 103.0
+                },
+                "Name": "tital_label",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qiqiu.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -295.2863,
+                  "Y": 173.0989
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -324.7863,
+                "RightMargin": 265.7863,
+                "TopMargin": -208.5989,
+                "BottomMargin": 137.5989,
+                "Tag": 29,
+                "ActionTag": 781966307,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 71.0
+                },
+                "Name": "green_ball",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qiqiu1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -144.4033,
+                  "Y": 226.7867
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -175.4033,
+                "RightMargin": 113.4033,
+                "TopMargin": -260.2867,
+                "BottomMargin": 193.2867,
+                "Tag": 30,
+                "ActionTag": 650878203,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 67.0
+                },
+                "Name": "red_ball",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1347076728,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "center_root",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "guang.png",
+        "qiqiu.png",
+        "qiqiu1.png",
+        "start_down.png",
+        "start_up.png",
+        "zhujiemian.png",
+        "zi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

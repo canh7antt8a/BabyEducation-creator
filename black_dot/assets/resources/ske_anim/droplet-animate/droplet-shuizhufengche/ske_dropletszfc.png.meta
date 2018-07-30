@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6690c870-a0b6-405b-bea5-a81bd8f81264",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ske_dropletszfc": {
+      "ver": "1.0.2",
+      "uuid": "2426fb1c-4e6a-44e7-a2a1-f0dc689ff752",
+      "rawTextureUuid": "6690c870-a0b6-405b-bea5-a81bd8f81264",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 532,
+      "height": 523,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

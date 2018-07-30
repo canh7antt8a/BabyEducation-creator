@@ -1,0 +1,50 @@
+{
+"skeleton": { "hash": "h7pH9dvajpaBpCyyClJg3nm34uQ", "spine": "2.1.27", "width": 386.77, "height": 359.89, "images": "./Data/grass/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "grass1-b", "parent": "root", "length": 319.12, "x": -0.78, "y": -185.43, "rotation": 90 }
+],
+"slots": [
+	{ "name": "grass1-b", "bone": "grass1-b", "attachment": "grass1-b" },
+	{ "name": "grass1-a", "bone": "root", "attachment": "grass1-a" }
+],
+"skins": {
+	"default": {
+		"grass1-a": {
+			"grass1-a": { "x": -2.84, "y": -48.84, "width": 203, "height": 81 }
+		},
+		"grass1-b": {
+			"grass1-b": { "x": 312.48, "y": 2.73, "scaleX": 0.994, "rotation": -90, "width": 389, "height": 287 }
+		}
+	}
+},
+"animations": {
+	"caoyaobai": {
+		"bones": {
+			"grass1-b": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 1.83 },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 2, "angle": -1.54 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.6666, "x": 6.78, "y": 5.52 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 2, "x": -5.5, "y": 3.48 },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 0.959, "y": 0.999 },
+					{ "time": 1.3333, "x": 1, "y": 1 },
+					{ "time": 2, "x": 0.977, "y": 1.003 },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

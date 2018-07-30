@@ -1,0 +1,20 @@
+
+ske_hua1.png
+size: 203,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HA_a
+  rotate: false
+  xy: 2, 2
+  size: 99, 113
+  orig: 103, 115
+  offset: 0, 2
+  index: -1
+HA_b
+  rotate: false
+  xy: 103, 3
+  size: 98, 112
+  orig: 103, 112
+  offset: 5, 0
+  index: -1

@@ -1,0 +1,778 @@
+{
+  "ID": "750336ee-0579-442c-b49f-77aafb68d490",
+  "Version": "3.10.0.0",
+  "Name": "game_scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 480.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 480.0,
+            "RightMargin": 480.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 12,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "beijing2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -480.0,
+                "RightMargin": -480.0,
+                "TopMargin": -360.0,
+                "BottomMargin": -360.0,
+                "Tag": 13,
+                "ActionTag": 688662603,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 720.0
+                },
+                "Name": "background",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -699034613,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "center_root",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 480.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 480.0,
+            "RightMargin": 480.0,
+            "TopMargin": 720.0,
+            "Tag": 14,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "beijing1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -480.0,
+                "RightMargin": -480.0,
+                "TopMargin": -324.0,
+                "Tag": 15,
+                "ActionTag": 1536756639,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 324.0
+                },
+                "Name": "bottom_back",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qidian.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": -453.195,
+                  "Y": 265.24
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -479.195,
+                "RightMargin": 427.195,
+                "TopMargin": -467.24,
+                "BottomMargin": 265.24,
+                "Tag": 18,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "chufa.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.2917,
+                      "ScaleY": 0.1769
+                    },
+                    "Position": {
+                      "X": 27.3996,
+                      "Y": 85.7737
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5269,
+                      "Y": 0.4246
+                    },
+                    "PreSize": {
+                      "X": 1.3846,
+                      "Y": 0.3218
+                    },
+                    "LeftMargin": 6.3972,
+                    "RightMargin": -26.3972,
+                    "TopMargin": 62.7248,
+                    "BottomMargin": 74.2752,
+                    "Tag": 11,
+                    "ActionTag": -915329643,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 65.0
+                    },
+                    "Name": "start_arrow",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 89228781,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 202.0
+                },
+                "Name": "start_point",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "end_point.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 455.9766,
+                  "Y": 226.0708
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 430.9766,
+                "RightMargin": -480.9766,
+                "TopMargin": -330.0708,
+                "BottomMargin": 122.0708,
+                "Tag": 19,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "zhongdian.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5886,
+                      "ScaleY": 0.1806
+                    },
+                    "Position": {
+                      "X": 22.6196,
+                      "Y": 116.7518
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4524,
+                      "Y": 0.5613
+                    },
+                    "PreSize": {
+                      "X": 1.58,
+                      "Y": 0.3462
+                    },
+                    "LeftMargin": -23.8798,
+                    "RightMargin": -5.1202,
+                    "TopMargin": 32.2514,
+                    "BottomMargin": 103.7486,
+                    "Tag": 12,
+                    "ActionTag": 294111170,
+                    "Size": {
+                      "X": 79.0,
+                      "Y": 72.0
+                    },
+                    "Name": "end_arrow",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 766114804,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 208.0
+                },
+                "Name": "end_point",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -480.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -480.0,
+                "RightMargin": 480.0,
+                "Tag": 20,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 21,
+                    "ActionTag": 922064905,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "path_root",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 22,
+                    "ActionTag": 874029467,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "path_up_conner_root",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": 20461464,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "road_root",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 822687848,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "bottom_root",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 480.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 480.0,
+            "RightMargin": 480.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 23,
+            "ActionTag": -327668157,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "diamond_root",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 960.0,
+            "BottomMargin": 720.0,
+            "Tag": 15,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "goto_back_down.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "goto_back_down.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goto_back_up.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 76,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.9498,
+                  "Y": -66.7247
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 8.9498,
+                "RightMargin": -114.9498,
+                "TopMargin": 14.7247,
+                "BottomMargin": -118.7247,
+                "Tag": 17,
+                "ActionTag": 1592160369,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 104.0
+                },
+                "Name": "back_button",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "kaishi1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "kaishi1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "kaishi.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 76,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 862.7809,
+                  "Y": -73.1533
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 809.7809,
+                "RightMargin": -915.7809,
+                "TopMargin": 21.6533,
+                "BottomMargin": -124.6533,
+                "Tag": 13,
+                "ActionTag": 168000848,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 103.0
+                },
+                "Name": "play_button",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 455.9971,
+                  "Y": -38.3651
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 455.9971,
+                "RightMargin": -455.9971,
+                "TopMargin": 38.3651,
+                "BottomMargin": -38.3651,
+                "Tag": 24,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "score_bg.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -131.5,
+                    "RightMargin": -131.5,
+                    "TopMargin": -44.5,
+                    "BottomMargin": -44.5,
+                    "Tag": 25,
+                    "ActionTag": 1555198938,
+                    "Size": {
+                      "X": 263.0,
+                      "Y": 89.0
+                    },
+                    "Name": "scroe_bg",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -262855357,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "score_node",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -1550801219,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "top_root",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "beijing1.png",
+        "beijing2.png",
+        "chufa.png",
+        "end_point.png",
+        "goto_back_down.png",
+        "goto_back_up.png",
+        "kaishi.png",
+        "kaishi1.png",
+        "qidian.png",
+        "score_bg.png",
+        "zhongdian.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "grass_1": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "0a7a2c41-07f7-4a0f-8bbb-9a7c861e78dc",
       "rawTextureUuid": "78dad8c5-7992-46fd-8f08-bdac4a788da0",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 390,
       "height": 371,
+      "rawWidth": 392,
+      "rawHeight": 373,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

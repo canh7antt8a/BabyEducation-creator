@@ -1,0 +1,1252 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1537933132433,
+    "meta": 1537937735780,
+    "relativePath": "image"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1470194030000,
+    "meta": 1537937735832,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1470194030000,
+    "meta": 1537937735833,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1470194030000,
+    "meta": 1537937735837,
+    "relativePath": "image\\default_panel.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1470194030000,
+    "meta": 1537937735839,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1470194030000,
+    "meta": 1537937735844,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1470194030000,
+    "meta": 1537937735845,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1470194030000,
+    "meta": 1537937735848,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1470194030000,
+    "meta": 1537937735852,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1470194030000,
+    "meta": 1537937735856,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1470194030000,
+    "meta": 1537937735859,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1470194030000,
+    "meta": 1537937735863,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1470194030000,
+    "meta": 1537937735865,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1537933132478,
+    "meta": 1537937735866,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1470194030000,
+    "meta": 1470194030000,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1537933138039,
+    "meta": 1537937735869,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1470194030000,
+    "meta": 1470194030000,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1537933132495,
+    "meta": 1537937735871,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1470194030000,
+    "meta": 1470194030000,
+    "relativePath": "particle\\atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1537933145135,
+    "meta": 1537937735873,
+    "relativePath": "prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1470194030000,
+    "meta": 1537937735876,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1470194030000,
+    "meta": 1537937735879,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1470194030000,
+    "meta": 1537937735882,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1470194030000,
+    "meta": 1537937735884,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1470194030000,
+    "meta": 1537937735886,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1470194030000,
+    "meta": 1537937735888,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1470194030000,
+    "meta": 1537937735891,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1470194030000,
+    "meta": 1537937735894,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1470194030000,
+    "meta": 1537937735896,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1470194030000,
+    "meta": 1537937735898,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1470194030000,
+    "meta": 1537937735900,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1470194030000,
+    "meta": 1537937735901,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1470194030000,
+    "meta": 1537937735903,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "45c8396e-a9f8-436b-91d3-2d0e43a9b0da": {
+    "asset": 1532926163165,
+    "meta": 1537937736058,
+    "relativePath": "animation_clip"
+  },
+  "7678dc69-bca2-4fdf-b7d2-cc8b40395250": {
+    "asset": 1461066747316,
+    "meta": 1537937736082,
+    "relativePath": "animation_clip\\ant_chef_hello.anim"
+  },
+  "c5565b89-02a4-460b-8600-7e2dc22b3267": {
+    "asset": 1461066235087,
+    "meta": 1537937736082,
+    "relativePath": "animation_clip\\ant_chef_idle.anim"
+  },
+  "5a88ac97-49e1-47b9-85c3-20d4cf978499": {
+    "asset": 1461066237228,
+    "meta": 1537937736085,
+    "relativePath": "animation_clip\\ant_food.anim"
+  },
+  "b5531e2b-cb0e-4c88-9dcd-959cd04b5bdb": {
+    "asset": 1461066235165,
+    "meta": 1537937736087,
+    "relativePath": "animation_clip\\ant_move.anim"
+  },
+  "df641c8b-6cfb-4ad0-bb05-792f69529b8c": {
+    "asset": 1461066237212,
+    "meta": 1537937736089,
+    "relativePath": "animation_clip\\ant_under_move01.anim"
+  },
+  "483b0c5a-9346-432d-908f-c0e57e70555d": {
+    "asset": 1461066237228,
+    "meta": 1537937736092,
+    "relativePath": "animation_clip\\ant_under_move02.anim"
+  },
+  "964f799e-60e1-4ac2-803f-dfe01879f914": {
+    "asset": 1461066237228,
+    "meta": 1537937736094,
+    "relativePath": "animation_clip\\ant_under_move03.anim"
+  },
+  "9cde74fd-d18c-464b-ab99-f3e5409ca7b9": {
+    "asset": 1461066237212,
+    "meta": 1537937736096,
+    "relativePath": "animation_clip\\coff_ant_move.anim"
+  },
+  "5aa0ec3d-d2ce-4185-990e-c21519ec29ba": {
+    "asset": 1461066235071,
+    "meta": 1537937736098,
+    "relativePath": "animation_clip\\left_yezi_move0.anim"
+  },
+  "f6c955da-bdc8-42e5-a6fb-8b66fb3e210d": {
+    "asset": 1461066235087,
+    "meta": 1537937736100,
+    "relativePath": "animation_clip\\left_yezi_move1.anim"
+  },
+  "d5e444cd-14a1-4e9f-8ae1-c1e19b3c8a3b": {
+    "asset": 1461066237212,
+    "meta": 1537937736102,
+    "relativePath": "animation_clip\\sprite_ant_move.anim"
+  },
+  "9ac3441b-4af7-4c6f-a29d-dae0992d1298": {
+    "asset": 1461066235103,
+    "meta": 1537937736104,
+    "relativePath": "animation_clip\\tree_1_move.anim"
+  },
+  "ba0d320a-d420-4665-b27d-2477a2023b5b": {
+    "asset": 1532926164119,
+    "meta": 1537937736105,
+    "relativePath": "resources"
+  },
+  "bbeadcde-ddcc-4a99-8ff4-df285f7cd652": {
+    "asset": 1532926163283,
+    "meta": 1537937736107,
+    "relativePath": "resources\\frame_anim"
+  },
+  "305f88ff-94c5-4935-a02e-bdac3b33a29f": {
+    "asset": 1461066235134,
+    "meta": 1537937736108,
+    "relativePath": "animation_clip\\tree_3_move.anim"
+  },
+  "1bccfe85-fe14-4b8c-8fdb-8cfbf9d15ec2": {
+    "asset": 1532926163206,
+    "meta": 1537937736109,
+    "relativePath": "resources\\frame_anim\\ant_chef"
+  },
+  "ee960ae2-bdef-4985-a658-d4905cd80614": {
+    "asset": 1532926163202,
+    "meta": 1537937736110,
+    "relativePath": "resources\\frame_anim\\ant_chef\\idle"
+  },
+  "8e19a4f3-527a-4fa6-bac5-68820c3547c5": {
+    "asset": 1461066237024,
+    "meta": 1537937736116,
+    "relativePath": "resources\\frame_anim\\ant_chef\\idle\\CSI0003.png"
+  },
+  "47d4da28-e9af-499e-a0e0-841010b7ccd8": {
+    "asset": 1461066237024,
+    "meta": 1537937736117,
+    "relativePath": "resources\\frame_anim\\ant_chef\\idle\\CSI0001.png"
+  },
+  "e431ae1b-668e-4eb7-91ce-f6132fdb9ff1": {
+    "asset": 1532926163242,
+    "meta": 1537937736118,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello"
+  },
+  "461aecb7-fa5f-4763-a895-9d3d74e74b9c": {
+    "asset": 1461066237024,
+    "meta": 1537937736122,
+    "relativePath": "resources\\frame_anim\\ant_chef\\idle\\CSI0005.png"
+  },
+  "11aa0e61-5163-450a-b882-803c52d9b6c9": {
+    "asset": 1461066237056,
+    "meta": 1537937736124,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0001.png"
+  },
+  "dce3e3d0-f837-4e48-8e95-3fbc72153319": {
+    "asset": 1461066237071,
+    "meta": 1537937736130,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0002.png"
+  },
+  "872c6fc0-7e06-43be-9fc5-60ac8336e7d3": {
+    "asset": 1461066237071,
+    "meta": 1537937736131,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0003.png"
+  },
+  "9472cb34-a8f2-4bf4-b4b0-7796a84d02b7": {
+    "asset": 1461066237071,
+    "meta": 1537937736136,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0004.png"
+  },
+  "a46b5f4d-023c-4ce0-b1db-dc6924424934": {
+    "asset": 1461066237071,
+    "meta": 1537937736138,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0005.png"
+  },
+  "4281de96-98b0-4417-b011-8c2c40c49bce": {
+    "asset": 1461066237071,
+    "meta": 1537937736144,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0006.png"
+  },
+  "e3874158-7f44-4749-a3e6-045277b21605": {
+    "asset": 1461066237071,
+    "meta": 1537937736145,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0007.png"
+  },
+  "48a7462f-9b37-456b-ad37-835fcf7d2e53": {
+    "asset": 1461066237071,
+    "meta": 1537937736151,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0008.png"
+  },
+  "517b13f0-f6c0-4505-9d3f-32766296923d": {
+    "asset": 1461066237071,
+    "meta": 1537937736152,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0009.png"
+  },
+  "6c329048-71b6-421d-bbcd-70177814974f": {
+    "asset": 1461066237071,
+    "meta": 1537937736157,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0011.png"
+  },
+  "ffcf9add-6411-4509-baff-912823cfad94": {
+    "asset": 1461066237071,
+    "meta": 1537937736159,
+    "relativePath": "resources\\frame_anim\\ant_chef\\say_hello\\say0010.png"
+  },
+  "864bc943-2373-43ee-ad26-ad60ca52f271": {
+    "asset": 1532926163279,
+    "meta": 1537937736161,
+    "relativePath": "resources\\frame_anim\\ant_hit"
+  },
+  "6da6a268-8391-4e2e-8400-865bc2bd7245": {
+    "asset": 1461066237009,
+    "meta": 1537937736172,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0001.png"
+  },
+  "dfe69999-e350-4f2c-9fb6-a94935fe276b": {
+    "asset": 1461066237009,
+    "meta": 1537937736173,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0002.png"
+  },
+  "8f1aaed2-3c4e-47ef-997d-7fcb915e0b9e": {
+    "asset": 1461066237009,
+    "meta": 1537937736185,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0003.png"
+  },
+  "9affffe7-5c88-4755-9037-341a42967ff7": {
+    "asset": 1461066237009,
+    "meta": 1537937736186,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0004.png"
+  },
+  "0d9143c0-9205-4370-adec-8caff9bac29f": {
+    "asset": 1461066237009,
+    "meta": 1537937736196,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0006.png"
+  },
+  "1de7c38f-e1a1-4e60-9ec7-2b8fab263eda": {
+    "asset": 1461066237009,
+    "meta": 1537937736197,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0005.png"
+  },
+  "8526793e-993e-4a3b-af72-346e90d326a7": {
+    "asset": 1461066237009,
+    "meta": 1537937736208,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0007.png"
+  },
+  "9d836801-baa6-423a-bfee-c6c001ba351a": {
+    "asset": 1461066237009,
+    "meta": 1537937736209,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0008.png"
+  },
+  "97abc971-1fab-45ce-9401-7089c4b1f3a2": {
+    "asset": 1461066237009,
+    "meta": 1537937736221,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0010.png"
+  },
+  "a0a5fbd9-fa81-4844-8b35-83ca9bb22f75": {
+    "asset": 1461066237024,
+    "meta": 1537937736222,
+    "relativePath": "resources\\frame_anim\\ant_hit\\DCJ0009.png"
+  },
+  "b2431d4f-557c-4939-9724-a9f7c8fe69ec": {
+    "asset": 1532926163300,
+    "meta": 1537937736223,
+    "relativePath": "resources\\frame_anim\\ant_move"
+  },
+  "086a9a90-ef14-4aaf-a759-46da6d0fc5c5": {
+    "asset": 1461066237103,
+    "meta": 1537937736233,
+    "relativePath": "resources\\frame_anim\\ant_move\\MYZ0002.png"
+  },
+  "326bb215-5259-45af-97e2-2b32f62b34a4": {
+    "asset": 1461066237087,
+    "meta": 1537937736234,
+    "relativePath": "resources\\frame_anim\\ant_move\\MYZ0001.png"
+  },
+  "f25ba4e2-fc4c-4e3f-8727-9aa245916600": {
+    "asset": 1461066237103,
+    "meta": 1537937736245,
+    "relativePath": "resources\\frame_anim\\ant_move\\MYZ0003.png"
+  },
+  "84f81bde-9273-4fb5-b686-34155b1b897f": {
+    "asset": 1461066237103,
+    "meta": 1537937736246,
+    "relativePath": "resources\\frame_anim\\ant_move\\MYZ0004.png"
+  },
+  "05dd94e7-574a-4b1f-afc0-8da249e44a83": {
+    "asset": 1532926163390,
+    "meta": 1537937736247,
+    "relativePath": "resources\\game_scene"
+  },
+  "a5bc7338-6128-441b-a0de-f0ce52a2494f": {
+    "asset": 1461066237103,
+    "meta": 1537937736253,
+    "relativePath": "resources\\frame_anim\\ant_move\\MYZ0005.png"
+  },
+  "a554b9d0-1ba2-4317-bc5d-48c107f3ebe8": {
+    "asset": 1461066235274,
+    "meta": 1537937736264,
+    "relativePath": "resources\\game_scene\\ant_mask2.png"
+  },
+  "64f41028-889b-48f0-bc4d-aab47513ac68": {
+    "asset": 1461066235274,
+    "meta": 1537937736267,
+    "relativePath": "resources\\game_scene\\ant_mask1.png"
+  },
+  "d331a22e-99d6-4867-be5b-9dfb017987e6": {
+    "asset": 1461066235274,
+    "meta": 1537937736272,
+    "relativePath": "resources\\game_scene\\ant_mask3.png"
+  },
+  "579efedc-0700-45fb-b26b-2bd369e29dbc": {
+    "asset": 1461066235259,
+    "meta": 1537937736314,
+    "relativePath": "resources\\game_scene\\bk_1.png"
+  },
+  "315a8634-a73b-4d06-bea3-15ec52d39c0d": {
+    "asset": 1461066235243,
+    "meta": 1537937736320,
+    "relativePath": "resources\\game_scene\\bzyz.png"
+  },
+  "1a18f400-d785-43fa-9be3-e73b716510f8": {
+    "asset": 1461066235212,
+    "meta": 1537937736324,
+    "relativePath": "resources\\game_scene\\castle_part1.png"
+  },
+  "39891218-ae1a-4722-a093-7766d05be0f7": {
+    "asset": 1461066235306,
+    "meta": 1537937736356,
+    "relativePath": "resources\\game_scene\\castle.png"
+  },
+  "c95d921a-58ad-4bff-96a8-cfd5a81c5cc6": {
+    "asset": 1461066235243,
+    "meta": 1537937736365,
+    "relativePath": "resources\\game_scene\\coffee.png"
+  },
+  "f08d2ad8-8b58-42d7-952f-386d2d13e01d": {
+    "asset": 1461066235212,
+    "meta": 1537937736374,
+    "relativePath": "resources\\game_scene\\dxzz.png"
+  },
+  "78dad8c5-7992-46fd-8f08-bdac4a788da0": {
+    "asset": 1461066235243,
+    "meta": 1537937736394,
+    "relativePath": "resources\\game_scene\\grass_1.png"
+  },
+  "066eb0ec-6e3d-44a0-9ef5-c5f75e16dcff": {
+    "asset": 1461066235259,
+    "meta": 1537937736404,
+    "relativePath": "resources\\game_scene\\background.png"
+  },
+  "e7dda4be-7704-46cd-b7a0-5b2128c55155": {
+    "asset": 1461066235243,
+    "meta": 1537937736414,
+    "relativePath": "resources\\game_scene\\grass_2.png"
+  },
+  "84f0b750-7332-470f-9386-1f1a04201c50": {
+    "asset": 1461066235306,
+    "meta": 1537937736426,
+    "relativePath": "resources\\game_scene\\ling_dang_hua.png"
+  },
+  "15cb151f-dac6-444e-815f-457b58b3ccc2": {
+    "asset": 1461066235243,
+    "meta": 1537937736438,
+    "relativePath": "resources\\game_scene\\grass_bk.png"
+  },
+  "0925d02f-eca0-419a-8a23-b066d238501a": {
+    "asset": 1461066235243,
+    "meta": 1537937736449,
+    "relativePath": "resources\\game_scene\\luzhu_ye.png.png"
+  },
+  "2a921188-2379-4491-ba08-03631896fbbe": {
+    "asset": 1461066235228,
+    "meta": 1537937736452,
+    "relativePath": "resources\\game_scene\\shi_tou_men.png"
+  },
+  "24f59230-6439-4a68-9f22-3e71fc863c89": {
+    "asset": 1461066235259,
+    "meta": 1537937736478,
+    "relativePath": "resources\\game_scene\\tree_2.png"
+  },
+  "f7829491-fde1-429a-b69a-bd5389876061": {
+    "asset": 1461066235274,
+    "meta": 1537937736520,
+    "relativePath": "resources\\game_scene\\tree_3.png"
+  },
+  "db5a6ca3-245f-41c1-8c5e-196a58423225": {
+    "asset": 1461066235259,
+    "meta": 1537937736522,
+    "relativePath": "resources\\game_scene\\tree_1.png"
+  },
+  "39d8bd4a-c58c-4a09-a189-b2e24d491a3f": {
+    "asset": 1461067331501,
+    "meta": 1537937736526,
+    "relativePath": "resources\\game_scene\\ZZ1.png"
+  },
+  "57704468-ebd4-4715-a7a0-045b3dba2fc3": {
+    "asset": 1461066235290,
+    "meta": 1537937736529,
+    "relativePath": "resources\\game_scene\\yanchoong.png"
+  },
+  "8b31d7dd-245d-453b-94c7-4770639d45e9": {
+    "asset": 1461067331563,
+    "meta": 1537937736533,
+    "relativePath": "resources\\game_scene\\zz2.png"
+  },
+  "80e0237b-b6c7-493f-bc8d-137e2d665573": {
+    "asset": 1461067331641,
+    "meta": 1537937736535,
+    "relativePath": "resources\\game_scene\\zz3.png"
+  },
+  "38288856-813a-430e-a635-b18f7baf09b7": {
+    "asset": 1461067331719,
+    "meta": 1537937736539,
+    "relativePath": "resources\\game_scene\\zz4.png"
+  },
+  "659f580c-1ca7-4c27-8ae1-db93a5a5e940": {
+    "asset": 1461067331813,
+    "meta": 1537937736542,
+    "relativePath": "resources\\game_scene\\ZZ5.png"
+  },
+  "5afe3a3e-f6d8-44f6-85ec-401cff644a8b": {
+    "asset": 1532926164072,
+    "meta": 1537937736543,
+    "relativePath": "resources\\ske_anim"
+  },
+  "bd225a18-2f49-4725-8504-26e73268eaac": {
+    "asset": 1532926163431,
+    "meta": 1537937736544,
+    "relativePath": "resources\\ske_anim\\ant"
+  },
+  "4927e67e-3a98-432a-8039-0a5a20d82f4c": {
+    "asset": 1461066236571,
+    "meta": 1461066236587,
+    "relativePath": "resources\\ske_anim\\ant\\ske_ant.atlas"
+  },
+  "7d49b28f-c3ff-4041-8d2d-d7f4b2960005": {
+    "asset": 1461067331969,
+    "meta": 1537937736551,
+    "relativePath": "resources\\game_scene\\ZZ6.png"
+  },
+  "71d0761f-f1ee-4109-92a5-781d9b9661ea": {
+    "asset": 1532926163449,
+    "meta": 1537937736552,
+    "relativePath": "resources\\ske_anim\\antchef"
+  },
+  "c998c95f-325e-4f04-a2be-866406186aa5": {
+    "asset": 1461066236337,
+    "meta": 1461066236337,
+    "relativePath": "resources\\ske_anim\\antchef\\ske_antchef.atlas"
+  },
+  "7499e999-1a75-4086-81a3-e26680faf547": {
+    "asset": 1461066236587,
+    "meta": 1537937737792,
+    "relativePath": "resources\\ske_anim\\ant\\ske_ant.json"
+  },
+  "0b98da05-b673-4e8a-b545-c78a2be96a54": {
+    "asset": 1461066236353,
+    "meta": 1537937737796,
+    "relativePath": "resources\\ske_anim\\antchef\\ske_antchef.json"
+  },
+  "494a150f-93e0-4f0e-8096-b12d6f7439e3": {
+    "asset": 1461066236571,
+    "meta": 1537937736559,
+    "relativePath": "resources\\ske_anim\\ant\\ske_ant.png"
+  },
+  "12d114e6-a6d3-4fe4-a4d4-604db7f2c469": {
+    "asset": 1532926163471,
+    "meta": 1537937736560,
+    "relativePath": "resources\\ske_anim\\CBfengche-shuizhu"
+  },
+  "8068308d-e504-4ea0-a257-94f635d36979": {
+    "asset": 1461066236274,
+    "meta": 1461066236274,
+    "relativePath": "resources\\ske_anim\\CBfengche-shuizhu\\ske_dropletszfc.atlas"
+  },
+  "573a06b0-1de8-4a34-b7b8-fc5618475621": {
+    "asset": 1461066236337,
+    "meta": 1537937736566,
+    "relativePath": "resources\\ske_anim\\antchef\\ske_antchef.png"
+  },
+  "813a0083-7b2d-4da6-a954-1fc9404fe7b3": {
+    "asset": 1532926163501,
+    "meta": 1537937736571,
+    "relativePath": "resources\\ske_anim\\CBfengche-zhuandong"
+  },
+  "2e4950a1-3cd1-405c-8e1e-f10135414114": {
+    "asset": 1461066235868,
+    "meta": 1461066235837,
+    "relativePath": "resources\\ske_anim\\CBfengche-zhuandong\\ske_dropletszfc.atlas"
+  },
+  "c168d941-e726-4b3f-af74-4b333e8108c9": {
+    "asset": 1461066236290,
+    "meta": 1537937737806,
+    "relativePath": "resources\\ske_anim\\CBfengche-shuizhu\\ske_dropletszfc.json"
+  },
+  "7e349a7c-8bd3-40ef-8e14-00fae9641b6b": {
+    "asset": 1461066235868,
+    "meta": 1537937736586,
+    "relativePath": "resources\\ske_anim\\CBfengche-zhuandong\\ske_dropletszfc.png"
+  },
+  "527e0d17-1aec-4e65-a942-d214086af66d": {
+    "asset": 1461066236274,
+    "meta": 1537937736610,
+    "relativePath": "resources\\ske_anim\\CBfengche-shuizhu\\ske_dropletszfc.png"
+  },
+  "2b78dc16-cda8-442f-bc4a-3c0b56b10b7e": {
+    "asset": 1532926163518,
+    "meta": 1537937736611,
+    "relativePath": "resources\\ske_anim\\coffcap-douopen"
+  },
+  "3a873ae9-a0c4-4cbb-91d2-bf0c5c7c398a": {
+    "asset": 1461066236321,
+    "meta": 1461066236306,
+    "relativePath": "resources\\ske_anim\\coffcap-douopen\\ske_coffcap.atlas"
+  },
+  "3bc381c4-ff6c-45bb-973d-1eb4d58bf254": {
+    "asset": 1461066235837,
+    "meta": 1537937737812,
+    "relativePath": "resources\\ske_anim\\CBfengche-zhuandong\\ske_dropletszfc.json"
+  },
+  "56f6afd1-9fd8-4ebe-9475-9a5dc14c9742": {
+    "asset": 1532926163560,
+    "meta": 1537937736618,
+    "relativePath": "resources\\ske_anim\\Dlingdanghua"
+  },
+  "34a7922c-2886-42a0-aa02-51a6cae50c79": {
+    "asset": 1461066236681,
+    "meta": 1461066236696,
+    "relativePath": "resources\\ske_anim\\Dlingdanghua\\ske_lingdanghua.atlas"
+  },
+  "411cb290-76e1-4389-9ae8-d75b577868ab": {
+    "asset": 1461066236321,
+    "meta": 1537937736625,
+    "relativePath": "resources\\ske_anim\\coffcap-douopen\\ske_coffcap.png"
+  },
+  "2d4618e9-d2ae-4227-a843-75a46e91e4c5": {
+    "asset": 1461066236321,
+    "meta": 1537937737820,
+    "relativePath": "resources\\ske_anim\\coffcap-douopen\\ske_coffcap.json"
+  },
+  "ba4b02c2-50cd-4a3d-9e91-1ac8909a373a": {
+    "asset": 1461066236681,
+    "meta": 1461066236696,
+    "relativePath": "resources\\ske_anim\\Dlingdanghua\\skeleton.atlas"
+  },
+  "42c5cba5-fc60-403f-a636-309a10dde40b": {
+    "asset": 1461066236696,
+    "meta": 1537937737826,
+    "relativePath": "resources\\ske_anim\\Dlingdanghua\\ske_lingdanghua.json"
+  },
+  "4b79dc5f-1a37-44b3-9a6e-e1f70a02ddcc": {
+    "asset": 1461066236681,
+    "meta": 1537937736639,
+    "relativePath": "resources\\ske_anim\\Dlingdanghua\\ske_lingdanghua.png"
+  },
+  "2890f339-d036-4862-8030-0b958e1774f5": {
+    "asset": 1532926163588,
+    "meta": 1537937736641,
+    "relativePath": "resources\\ske_anim\\droplet-animate"
+  },
+  "d366c6a0-0115-4758-b1a1-1817e27ccd3d": {
+    "asset": 1532926163603,
+    "meta": 1537937736642,
+    "relativePath": "resources\\ske_anim\\droplet-animate\\droplet-shuizhufengche"
+  },
+  "2c7cbd76-f18a-4090-9e92-0232f213a5ba": {
+    "asset": 1461066236634,
+    "meta": 1461066236634,
+    "relativePath": "resources\\ske_anim\\droplet-animate\\droplet-shuizhufengche\\ske_dropletszfc.atlas"
+  },
+  "4659867b-2fc6-47fd-8650-d68110e3aac4": {
+    "asset": 1461066236696,
+    "meta": 1537937737831,
+    "relativePath": "resources\\ske_anim\\Dlingdanghua\\skeleton.json"
+  },
+  "d7d31efd-b0e0-4931-b44c-2e20c4fa0e04": {
+    "asset": 1461066236681,
+    "meta": 1537937736656,
+    "relativePath": "resources\\ske_anim\\Dlingdanghua\\skeleton.png"
+  },
+  "82a609d7-3098-4181-8693-9fed5eb3d1e6": {
+    "asset": 1532926163867,
+    "meta": 1537937736659,
+    "relativePath": "resources\\ske_anim\\flowers-animate"
+  },
+  "2c0f8137-25e2-4dc1-8f6f-263a3b3e4333": {
+    "asset": 1532926163653,
+    "meta": 1537937736660,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerA-yaobai"
+  },
+  "5fff7167-d7dd-493c-a4d4-fddf340fc3df": {
+    "asset": 1461066235353,
+    "meta": 1461066235368,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerA-yaobai\\ske_DflowerA.atlas"
+  },
+  "6690c870-a0b6-405b-bea5-a81bd8f81264": {
+    "asset": 1461066236634,
+    "meta": 1537937736682,
+    "relativePath": "resources\\ske_anim\\droplet-animate\\droplet-shuizhufengche\\ske_dropletszfc.png"
+  },
+  "399f4323-6b26-4749-8276-b75d6c28db09": {
+    "asset": 1461066236649,
+    "meta": 1537937737838,
+    "relativePath": "resources\\ske_anim\\droplet-animate\\droplet-shuizhufengche\\ske_dropletszfc.json"
+  },
+  "91c0ccdd-c059-4d4f-baa2-64481d485d56": {
+    "asset": 1532926163743,
+    "meta": 1537937736685,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yaobai"
+  },
+  "897dc347-df34-4f91-b0c7-c54c4cb2d8bc": {
+    "asset": 1461066235399,
+    "meta": 1461066235415,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yaobai\\ske_DflowerB.atlas"
+  },
+  "4d0cd967-dcdb-4dcb-8ebe-375d2d1972e9": {
+    "asset": 1461066235368,
+    "meta": 1537937737844,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerA-yaobai\\ske_DflowerA.json"
+  },
+  "bb5f5524-6dbb-483d-a35c-d7eec04017fb": {
+    "asset": 1461066235368,
+    "meta": 1537937736696,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerA-yaobai\\ske_DflowerA.png"
+  },
+  "888fd746-c5c8-4108-9b48-88aedeee6eff": {
+    "asset": 1532926163773,
+    "meta": 1537937736697,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yidong"
+  },
+  "d64f8179-d647-4b44-a6e5-526adc73db06": {
+    "asset": 1461066235712,
+    "meta": 1461066235728,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yidong\\ske_DflowerByd.atlas"
+  },
+  "f5614de6-33fb-4b11-854e-523d47ad6ef9": {
+    "asset": 1461066235415,
+    "meta": 1537937737849,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yaobai\\ske_DflowerB.json"
+  },
+  "8af4a2f4-56a4-4c14-86f4-1a48cf5e9cbe": {
+    "asset": 1461066235399,
+    "meta": 1537937736706,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yaobai\\ske_DflowerB.png"
+  },
+  "d0bee452-b7f2-4712-83b8-82eb9423a1a5": {
+    "asset": 1461066235712,
+    "meta": 1537937736712,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yidong\\ske_DflowerByd.png"
+  },
+  "021eeb2a-9ebd-45ef-b830-7d79eb597d6b": {
+    "asset": 1532926163805,
+    "meta": 1537937736713,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai"
+  },
+  "0bdddbd7-26de-44aa-aa1f-c79bb1b60150": {
+    "asset": 1532926163795,
+    "meta": 1537937736714,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC-yaobai"
+  },
+  "a7c76b18-ab90-4526-a959-7e5f5d708dda": {
+    "asset": 1461066235462,
+    "meta": 1461066235478,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC-yaobai\\ske_DflowerC.atlas"
+  },
+  "6cb3905d-67a1-4436-bd4d-aa997f4bf5b6": {
+    "asset": 1461066235728,
+    "meta": 1537937737856,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerB-yidong\\ske_DflowerByd.json"
+  },
+  "d92f9ea0-d256-47e7-889a-8a8e245e9b83": {
+    "asset": 1532926163816,
+    "meta": 1537937736719,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC1-yaobai"
+  },
+  "462ae04c-3e7e-4cec-863b-bd3b227fb240": {
+    "asset": 1461066235493,
+    "meta": 1461066235524,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC1-yaobai\\ske_DflowerC1.atlas"
+  },
+  "181312db-7012-4613-ac62-2052181ab4ec": {
+    "asset": 1461066235478,
+    "meta": 1537937737861,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC-yaobai\\ske_DflowerC.json"
+  },
+  "d2a5488a-6f5c-4018-b113-3f4d6e4e6f32": {
+    "asset": 1461066235462,
+    "meta": 1537937736730,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC-yaobai\\ske_DflowerC.png"
+  },
+  "a8e69378-0786-4313-8b43-7c5d59520c00": {
+    "asset": 1532926163832,
+    "meta": 1537937736731,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerD-yaobai"
+  },
+  "54d0c67e-fe3d-4ba9-80d2-6ec1b24eb97f": {
+    "asset": 1461066235540,
+    "meta": 1461066235556,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerD-yaobai\\ske_DflowerD.atlas"
+  },
+  "fd6eb739-d6c4-4ae0-a529-422b7f4627ac": {
+    "asset": 1461066235524,
+    "meta": 1537937737867,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC1-yaobai\\ske_DflowerC1.json"
+  },
+  "ce9d6c3d-71cb-4c01-8d83-bb07aa63e489": {
+    "asset": 1461066235493,
+    "meta": 1537937736739,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerC-yaobai\\DflowerC1-yaobai\\ske_DflowerC1.png"
+  },
+  "d42fc023-4204-4c90-a40f-d16a691da093": {
+    "asset": 1532926163846,
+    "meta": 1537937736741,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerE-yaobai"
+  },
+  "377cf159-6978-435f-8faf-9b4ce193fb1f": {
+    "asset": 1461066235571,
+    "meta": 1461066235603,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerE-yaobai\\ske_DflowerD.atlas"
+  },
+  "a233405e-b117-46c8-9f6a-7639bb91aaed": {
+    "asset": 1461066235556,
+    "meta": 1537937736748,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerD-yaobai\\ske_DflowerD.png"
+  },
+  "d56691ab-7e99-4542-9ee9-8d4cc39e238b": {
+    "asset": 1461066235571,
+    "meta": 1537937737872,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerD-yaobai\\ske_DflowerD.json"
+  },
+  "864b9108-cf60-4477-bbd0-2cc269fdac69": {
+    "asset": 1532926163860,
+    "meta": 1537937736752,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DLHa-yaobai"
+  },
+  "329b2eb6-cfc3-4e4c-8021-6ed8515f5ff2": {
+    "asset": 1461066235618,
+    "meta": 1461066235634,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DLHa-yaobai\\ske_DflowDLHa.atlas"
+  },
+  "4e850aa1-3ac4-40f1-990a-e6c0e82eff69": {
+    "asset": 1461066235587,
+    "meta": 1537937736759,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerE-yaobai\\ske_DflowerD.png"
+  },
+  "37200062-191f-4b57-8df8-b2b405d0be2f": {
+    "asset": 1461066235603,
+    "meta": 1537937737877,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DflowerE-yaobai\\ske_DflowerD.json"
+  },
+  "1cc90556-165d-4da9-ab51-550e21451aa6": {
+    "asset": 1532926163879,
+    "meta": 1537937736763,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\GLH-yaobai"
+  },
+  "cb47247c-d4b9-4e26-86cf-d7b60c109057": {
+    "asset": 1461066235649,
+    "meta": 1461066235665,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\GLH-yaobai\\ske_DflowGLH.atlas"
+  },
+  "bafc1d91-efb9-4ea4-bf0e-68e9630c46d0": {
+    "asset": 1461066235634,
+    "meta": 1537937737882,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DLHa-yaobai\\ske_DflowDLHa.json"
+  },
+  "5111e382-0ac5-4ffd-ae5d-ef81dc31f6bd": {
+    "asset": 1461066235618,
+    "meta": 1537937736777,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\DLHa-yaobai\\ske_DflowDLHa.png"
+  },
+  "91720a58-b0df-4272-ae13-977b12327ddc": {
+    "asset": 1532926163988,
+    "meta": 1537937736779,
+    "relativePath": "resources\\ske_anim\\scanimat"
+  },
+  "cbf97fb8-d5cb-4670-a92f-d2010f3527c3": {
+    "asset": 1532926163907,
+    "meta": 1537937736780,
+    "relativePath": "resources\\ske_anim\\scanimat\\ant"
+  },
+  "5d302f65-48d2-44b4-b93c-3a8de56263d5": {
+    "asset": 1461066236149,
+    "meta": 1461066236149,
+    "relativePath": "resources\\ske_anim\\scanimat\\ant\\ske_ant.atlas"
+  },
+  "882d470a-8a1a-43d8-be7e-07e026157125": {
+    "asset": 1461066235665,
+    "meta": 1537937737888,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\GLH-yaobai\\ske_DflowGLH.json"
+  },
+  "12d26c6d-da35-47b9-9195-842476f0bc77": {
+    "asset": 1461066235649,
+    "meta": 1537937736788,
+    "relativePath": "resources\\ske_anim\\flowers-animate\\GLH-yaobai\\ske_DflowGLH.png"
+  },
+  "5081872e-b8ec-4a08-a248-ad917851b8b2": {
+    "asset": 1532926163924,
+    "meta": 1537937736789,
+    "relativePath": "resources\\ske_anim\\scanimat\\antchef"
+  },
+  "891b5e61-0501-4705-84f7-da19316f3932": {
+    "asset": 1461066236228,
+    "meta": 1461066236228,
+    "relativePath": "resources\\ske_anim\\scanimat\\antchef\\ske_antchef.atlas"
+  },
+  "fad87a53-a113-4904-ba58-5dc28c4458e1": {
+    "asset": 1461066236165,
+    "meta": 1537937737894,
+    "relativePath": "resources\\ske_anim\\scanimat\\ant\\ske_ant.json"
+  },
+  "d1fa2e2b-8ce3-4efa-9798-76dee15841d3": {
+    "asset": 1461066236149,
+    "meta": 1537937736796,
+    "relativePath": "resources\\ske_anim\\scanimat\\ant\\ske_ant.png"
+  },
+  "dcc117b9-6840-4b0a-9aff-e25f1db47454": {
+    "asset": 1461066236243,
+    "meta": 1537937737901,
+    "relativePath": "resources\\ske_anim\\scanimat\\antchef\\ske_antchef.json"
+  },
+  "876be7c2-dc7d-4e5d-9ea8-3239b6ca6405": {
+    "asset": 1532926163940,
+    "meta": 1537937736797,
+    "relativePath": "resources\\ske_anim\\scanimat\\bee"
+  },
+  "fad502fe-f7f8-4a6c-819a-a2d210b0f7af": {
+    "asset": 1461066235946,
+    "meta": 1461066235884,
+    "relativePath": "resources\\ske_anim\\scanimat\\bee\\ske_bee.atlas"
+  },
+  "cd94bc64-c5ef-4c2c-9318-0de38ed005bc": {
+    "asset": 1461066236228,
+    "meta": 1537937736802,
+    "relativePath": "resources\\ske_anim\\scanimat\\antchef\\ske_antchef.png"
+  },
+  "776b4dc0-b255-4325-aa67-be3de8411267": {
+    "asset": 1532926163955,
+    "meta": 1537937736808,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun1"
+  },
+  "f38fdeb4-5c77-4548-9073-b11677269500": {
+    "asset": 1461066235962,
+    "meta": 1461066235962,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun1\\ske_yun1.atlas"
+  },
+  "83ffd038-aa1f-4f00-a4f1-93b5663d39b6": {
+    "asset": 1461066235946,
+    "meta": 1537937736812,
+    "relativePath": "resources\\ske_anim\\scanimat\\bee\\ske_bee.png"
+  },
+  "36415135-1f32-4270-9102-578c0f349643": {
+    "asset": 1461066235993,
+    "meta": 1537937737908,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun1\\ske_yun1.json"
+  },
+  "9c3c140a-eb3b-427b-9a86-f03fbff5201f": {
+    "asset": 1532926163971,
+    "meta": 1537937736815,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun2"
+  },
+  "3bc4cb67-4995-409f-815a-ef87990b123a": {
+    "asset": 1461066236040,
+    "meta": 1461066236056,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun2\\ske_yun2.atlas"
+  },
+  "acdb5035-26f2-40b9-960b-ff3933cd97ce": {
+    "asset": 1461066235915,
+    "meta": 1537937737920,
+    "relativePath": "resources\\ske_anim\\scanimat\\bee\\ske_bee.json"
+  },
+  "b96ef848-648a-41d9-966c-cee081dedc36": {
+    "asset": 1461066235962,
+    "meta": 1537937736823,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun1\\ske_yun1.png"
+  },
+  "69284faf-53f6-4c55-b4f1-add79b54e8d2": {
+    "asset": 1532926163984,
+    "meta": 1537937736826,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun3"
+  },
+  "7012c470-ed66-4179-a268-603f014940c1": {
+    "asset": 1461066236103,
+    "meta": 1461066236118,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun3\\skeleton.atlas"
+  },
+  "a853e693-dc2f-4f8b-86ad-66b631c9b5c3": {
+    "asset": 1461066236040,
+    "meta": 1537937736832,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun2\\ske_yun2.png"
+  },
+  "e3ad36e0-9529-473f-80f0-b50b4e83230f": {
+    "asset": 1461066236056,
+    "meta": 1537937737926,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun2\\ske_yun2.json"
+  },
+  "eb55d404-15f2-495a-8b3e-9a2543baf124": {
+    "asset": 1532926163998,
+    "meta": 1537937736836,
+    "relativePath": "resources\\ske_anim\\scanimat\\zhizhuw"
+  },
+  "3749183a-2002-45e4-8072-9b7468748bf1": {
+    "asset": 1461066236243,
+    "meta": 1461066236243,
+    "relativePath": "resources\\ske_anim\\scanimat\\zhizhuw\\ske_zhizhu.atlas"
+  },
+  "8ceda539-4e96-4d1f-a37c-339bc4f2f3d6": {
+    "asset": 1461066236103,
+    "meta": 1537937736844,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun3\\skeleton.png"
+  },
+  "5a576e44-b20d-4dbd-ac32-3f0f18596af2": {
+    "asset": 1461066236118,
+    "meta": 1537937737930,
+    "relativePath": "resources\\ske_anim\\scanimat\\yun3\\skeleton.json"
+  },
+  "5425b3c1-426e-42f1-9247-db6c95d9c392": {
+    "asset": 1532926164038,
+    "meta": 1537937736848,
+    "relativePath": "resources\\ske_anim\\ske_grass"
+  },
+  "682a2909-fd6c-4308-a0ad-cabc691ad36b": {
+    "asset": 1532926164020,
+    "meta": 1537937736849,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass1-yaobai"
+  },
+  "5c61ad8a-62ff-4f70-87f3-e99f65350061": {
+    "asset": 1461066236462,
+    "meta": 1461066236431,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass1-yaobai\\ske_DGrass1.atlas"
+  },
+  "a23e1ac3-e5f8-4138-8e31-a905fbaad1d2": {
+    "asset": 1461066236243,
+    "meta": 1537937736854,
+    "relativePath": "resources\\ske_anim\\scanimat\\zhizhuw\\ske_zhizhu.png"
+  },
+  "c5707dcf-5a41-49e4-8b35-7a74cf3bc9e7": {
+    "asset": 1461066236274,
+    "meta": 1537937737937,
+    "relativePath": "resources\\ske_anim\\scanimat\\zhizhuw\\ske_zhizhu.json"
+  },
+  "8178566c-2183-4e7a-81eb-d0d804cddad7": {
+    "asset": 1532926164034,
+    "meta": 1537937736859,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass2-yaobai"
+  },
+  "4e160ade-3a14-4a24-b17e-2d6d0262eace": {
+    "asset": 1461066236478,
+    "meta": 1461066236478,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass2-yaobai\\ske_DGrass2.atlas"
+  },
+  "c3ad7f46-8788-4000-baef-f216490c8311": {
+    "asset": 1461066236446,
+    "meta": 1537937737941,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass1-yaobai\\ske_DGrass1.json"
+  },
+  "b14d52ed-f438-4910-beca-d7d137ecf4fe": {
+    "asset": 1461066236462,
+    "meta": 1537937736876,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass1-yaobai\\ske_DGrass1.png"
+  },
+  "bf7b7fe2-2843-439f-936a-787c71939d72": {
+    "asset": 1532926164048,
+    "meta": 1537937736878,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrassbak-yaobai"
+  },
+  "00caa5df-ab69-466c-908e-58c4d5f51e4c": {
+    "asset": 1461066236524,
+    "meta": 1461066236540,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrassbak-yaobai\\ske_DGrassbak.atlas"
+  },
+  "ed07f3b0-ed63-4f73-81d4-7488fe7679bf": {
+    "asset": 1461066236493,
+    "meta": 1537937737946,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass2-yaobai\\ske_DGrass2.json"
+  },
+  "f99a174d-535a-4b4c-b548-e131965a54e2": {
+    "asset": 1461066236478,
+    "meta": 1537937736892,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrass2-yaobai\\ske_DGrass2.png"
+  },
+  "41cb5e5f-f608-413f-9aad-d9df493b5740": {
+    "asset": 1532926164068,
+    "meta": 1537937736915,
+    "relativePath": "resources\\ske_anim\\yan"
+  },
+  "ae9f5556-c04f-4642-b352-ba6b67873782": {
+    "asset": 1461066236524,
+    "meta": 1537937736916,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrassbak-yaobai\\ske_DGrassbak.png"
+  },
+  "0e8f315c-0b87-4c59-8412-e4df0761d4f7": {
+    "asset": 1461066236728,
+    "meta": 1461066236728,
+    "relativePath": "resources\\ske_anim\\yan\\ske_yan.atlas"
+  },
+  "492f6d90-9aa6-43a9-a02d-1676151ae36b": {
+    "asset": 1461066236571,
+    "meta": 1537937737951,
+    "relativePath": "resources\\ske_anim\\ske_grass\\Dgrassbak-yaobai\\ske_DGrassbak.json"
+  },
+  "7b97c5a7-5bbc-46d0-8f9c-e198af4050dd": {
+    "asset": 1532926164083,
+    "meta": 1537937736920,
+    "relativePath": "resources\\ske_anim\\zhizhuw"
+  },
+  "5c9a1dd8-8290-4727-8186-62287c8cdf39": {
+    "asset": 1461066236353,
+    "meta": 1461066236368,
+    "relativePath": "resources\\ske_anim\\zhizhuw\\ske_zhizhu.atlas"
+  },
+  "a4dd760c-12c6-4c08-8098-f517518d3850": {
+    "asset": 1461066236728,
+    "meta": 1537937736926,
+    "relativePath": "resources\\ske_anim\\yan\\ske_yan.png"
+  },
+  "671fe92c-d0b9-4eff-9bca-f322b4cb8571": {
+    "asset": 1461066236743,
+    "meta": 1537937737955,
+    "relativePath": "resources\\ske_anim\\yan\\ske_yan.json"
+  },
+  "47a9dd28-8065-4bf9-93ee-999457f635c3": {
+    "asset": 1532926164115,
+    "meta": 1537937736930,
+    "relativePath": "resources\\sounds"
+  },
+  "3d93797a-8c80-4c83-af9a-6645082730f5": {
+    "asset": 1461066236993,
+    "meta": 1461066236837,
+    "relativePath": "resources\\sounds\\ant_is_home.mp3"
+  },
+  "6744a5ba-f976-48d2-a1a8-94d9abd1f6a4": {
+    "asset": 1461066236837,
+    "meta": 1461066236774,
+    "relativePath": "resources\\sounds\\ant_is_strong.mp3"
+  },
+  "512c5237-005e-400e-bf67-824cae856164": {
+    "asset": 1461066236353,
+    "meta": 1537937736936,
+    "relativePath": "resources\\ske_anim\\zhizhuw\\ske_zhizhu.png"
+  },
+  "edf8ebfe-0840-41a9-88d2-ff21177c6f85": {
+    "asset": 1461066236368,
+    "meta": 1537937737961,
+    "relativePath": "resources\\ske_anim\\zhizhuw\\ske_zhizhu.json"
+  },
+  "66f899f3-cd35-432d-8eff-6e80bdcc5ff0": {
+    "asset": 1461066236884,
+    "meta": 1461066236774,
+    "relativePath": "resources\\sounds\\ant01_chef_click.mp3"
+  },
+  "133164fa-1100-479a-b9c3-b4f00056b8c7": {
+    "asset": 1461066236899,
+    "meta": 1461066236774,
+    "relativePath": "resources\\sounds\\ant02_chef_click.mp3"
+  },
+  "674b16c9-18f7-4a8c-be9a-d18ccc9a2d07": {
+    "asset": 1461066236931,
+    "meta": 1461066236790,
+    "relativePath": "resources\\sounds\\ant03_chef_click.mp3"
+  },
+  "ee243e5f-4f6a-413a-86ac-47f614f8ecde": {
+    "asset": 1461066236946,
+    "meta": 1461066236790,
+    "relativePath": "resources\\sounds\\click_coff.mp3"
+  },
+  "e5b668b6-d47d-490d-955e-5ac9fb72f7bb": {
+    "asset": 1461066237009,
+    "meta": 1461066236853,
+    "relativePath": "resources\\sounds\\click_lingdang.mp3"
+  },
+  "17ad558f-d5f9-46bd-bea3-a96ef45325de": {
+    "asset": 1461066236978,
+    "meta": 1461066236806,
+    "relativePath": "resources\\sounds\\wator_fengzhang.mp3"
+  },
+  "d19e000c-eef0-4a04-8c28-25cc6d69e1e6": {
+    "asset": 1532926164125,
+    "meta": 1537937736940,
+    "relativePath": "resources\\start_scene"
+  },
+  "4cb3d70e-0c5f-4800-8185-6e8654458cf6": {
+    "asset": 1461230902215,
+    "meta": 1537937736952,
+    "relativePath": "resources\\start_scene\\bt_play.png"
+  },
+  "6c9a4943-1e75-4a2b-b4ad-232cb1b42c27": {
+    "asset": 1532926164134,
+    "meta": 1537937736953,
+    "relativePath": "scenes"
+  },
+  "4cd8991d-8be2-4cb9-8a20-8e8f69f16e24": {
+    "asset": 1461920054749,
+    "meta": 1537937736974,
+    "relativePath": "scenes\\main_scene.fire"
+  },
+  "c2434266-a77d-4f5b-8180-3caa5827147d": {
+    "asset": 1532926164149,
+    "meta": 1537937736975,
+    "relativePath": "scripts"
+  },
+  "9aba6621-beb7-48bd-86f9-5d4d0d4aace1": {
+    "asset": 1461913368992,
+    "meta": 1537937737511,
+    "relativePath": "resources\\start_scene\\logo.png"
+  },
+  "402659fa-1fe4-4794-af3b-a17a51b5ee96": {
+    "asset": 1461305779357,
+    "meta": 1537937737666,
+    "relativePath": "scripts\\frame_anim.js"
+  },
+  "ab84fd9c-02a2-47b3-92f9-ce73e91a69c0": {
+    "asset": 1461067173888,
+    "meta": 1537937737695,
+    "relativePath": "scripts\\main_scene.js"
+  },
+  "534a66cc-98c6-4994-b3fa-3d6f299ff65e": {
+    "asset": 1461066235196,
+    "meta": 1537937737730,
+    "relativePath": "scripts\\random_ske.js"
+  },
+  "01bfa7ff-ae2c-4e6d-b1dd-7d55fc28287e": {
+    "asset": 1461230779027,
+    "meta": 1537937737732,
+    "relativePath": "scripts\\start_scene.js"
+  }
+}

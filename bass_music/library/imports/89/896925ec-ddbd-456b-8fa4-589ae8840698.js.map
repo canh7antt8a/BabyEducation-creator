@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;AAUR,gBAAQ,EAAG,GAAG;AACd,kBAAU,EAAE,EAAE;AACd,kBAAU,EAAE,GAAG;KAClB;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAG,IAAI,CAAC,UAAU,IAAI,CAAC,EAAE;AACrB,gBAAI,CAAC,YAAY,CAAC,CAAA,YAAW;AACzB,oBAAI,CAAC,UAAU,EAAE,CAAC;aACrB,CAAA,CAAC,IAAI,CAAC,IAAI,CAAC,EAAE,IAAI,CAAC,UAAU,CAAC,CAAC;SAClC,MACI;AACD,gBAAI,CAAC,UAAU,EAAE,CAAC;SACrB;KAEJ;;AAED,cAAU,EAAE,sBAAW;AACnB,YAAI,IAAI,GAAG,EAAE,CAAC,QAAQ,CAAC,IAAI,CAAC,QAAQ,EAAE,IAAI,CAAC,UAAU,CAAC,CAAC;AACvD,YAAI,IAAI,GAAG,EAAE,CAAC,QAAQ,CAAC,IAAI,CAAC,QAAQ,EAAE,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC;AACxD,YAAI,GAAG,GAAG,EAAE,CAAC,QAAQ,CAAC,CAAC,IAAI,EAAE,IAAI,CAAC,CAAC,CAAC;AACpC,YAAI,MAAM,GAAG,EAAE,CAAC,aAAa,CAAC,GAAG,CAAC,CAAC;AACnC,YAAI,CAAC,IAAI,CAAC,SAAS,CAAC,MAAM,CAAC,CAAC;KAC/B;CAKJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n        rot_time:  0.4,\r\n        rot_degree: 20,\r\n        start_time: 0.1,\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        if(this.start_time >= 0) {\r\n            this.scheduleOnce(function() {\r\n                this.run_action();    \r\n            }.bind(this), this.start_time);\r\n        }\r\n        else {\r\n            this.run_action();\r\n        }\r\n        \r\n    },\r\n    \r\n    run_action: function() {\r\n        var rot1 = cc.rotateTo(this.rot_time, this.rot_degree);\r\n        var rot2 = cc.rotateTo(this.rot_time, -this.rot_degree);\r\n        var seq = cc.sequence([rot1, rot2]);\r\n        var repeat = cc.repeatForever(seq);\r\n        this.node.runAction(repeat);    \r\n    },\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

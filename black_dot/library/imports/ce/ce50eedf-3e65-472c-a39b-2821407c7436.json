@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_DflowerB",
+    "texture": "8af4a2f4-56a4-4c14-86f4-1a48cf5e9cbe",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      96,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      120
+    ]
+  }
+}

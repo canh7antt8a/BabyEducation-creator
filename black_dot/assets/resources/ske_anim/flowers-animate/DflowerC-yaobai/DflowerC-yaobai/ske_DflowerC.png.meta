@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ske_DflowerC": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "a2def56a-dd1a-4bc8-93f3-8be57d605af2",
       "rawTextureUuid": "d2a5488a-6f5c-4018-b113-3f4d6e4e6f32",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 282,
       "height": 88,
+      "rawWidth": 286,
+      "rawHeight": 92,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

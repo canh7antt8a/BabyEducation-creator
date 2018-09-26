@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "end_light",
+    "texture": "0d6a98c1-0f25-427f-9389-31aee5676bef",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      440,
+      440
+    ],
+    "offset": [
+      -1.5,
+      0.5
+    ],
+    "originalSize": [
+      447,
+      443
+    ]
+  }
+}

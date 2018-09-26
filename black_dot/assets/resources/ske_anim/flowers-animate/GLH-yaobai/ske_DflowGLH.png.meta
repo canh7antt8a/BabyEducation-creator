@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ske_DflowGLH": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "341ca92b-af82-44f1-a23e-c941439a2f05",
       "rawTextureUuid": "12d26c6d-da35-47b9-9195-842476f0bc77",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 65,
       "height": 79,
+      "rawWidth": 69,
+      "rawHeight": 83,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "xianfu-qiqiu": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "b1f3a1d4-41d0-4e64-b6dd-90fa09fc79c9",
       "rawTextureUuid": "47ec9072-4639-4208-bc1b-dbe878a8a804",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 110,
       "height": 164,
+      "rawWidth": 111,
+      "rawHeight": 164,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

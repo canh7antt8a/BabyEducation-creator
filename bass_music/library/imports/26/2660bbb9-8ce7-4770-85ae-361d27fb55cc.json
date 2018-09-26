@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lightning_C_09",
+    "texture": "aaae6b14-ec06-4968-a524-df54a4c74d3f",
+    "atlas": "",
+    "rect": [
+      31,
+      42,
+      237,
+      472
+    ],
+    "offset": [
+      1.5,
+      -5.5
+    ],
+    "originalSize": [
+      296,
+      545
+    ]
+  }
+}

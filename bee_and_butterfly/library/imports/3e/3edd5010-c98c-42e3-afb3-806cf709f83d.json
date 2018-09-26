@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MFH2",
+    "texture": "283ab50d-845b-4e83-851f-7f3530e018f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      319,
+      230
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      319,
+      230
+    ]
+  }
+}

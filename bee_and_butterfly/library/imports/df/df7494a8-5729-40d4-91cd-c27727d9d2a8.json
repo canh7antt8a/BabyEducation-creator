@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gongzuotai_1",
+    "texture": "fbe3cb26-7366-4971-bca8-e9f49301fc12",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      34
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DLH-CC2",
+    "texture": "799542df-265c-4452-ab2f-fce7920ee619",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      229,
+      149
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      229,
+      149
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xianfu-qiqiu",
+    "texture": "47ec9072-4639-4208-bc1b-dbe878a8a804",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      110,
+      164
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      111,
+      164
+    ]
+  }
+}

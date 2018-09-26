@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "end_logo",
+    "texture": "7bd2b29a-475c-417b-a73f-56615260e2d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      528,
+      450
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      528,
+      450
+    ]
+  }
+}

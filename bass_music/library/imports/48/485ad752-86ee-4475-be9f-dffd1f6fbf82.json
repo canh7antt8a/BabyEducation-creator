@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lightning_A_7",
+    "texture": "e9007c28-2506-4be1-b17b-c5c35d395088",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      287,
+      560
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      287,
+      560
+    ]
+  }
+}

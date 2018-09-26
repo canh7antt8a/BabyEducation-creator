@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske-denglongcao2",
+    "texture": "f5b56902-b798-4c61-992b-1fad5ff30231",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      266,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      270,
+      270
+    ]
+  }
+}

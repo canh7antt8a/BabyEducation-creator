@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_DGrass2",
+    "texture": "f99a174d-535a-4b4c-b548-e131965a54e2",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      258,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      262,
+      127
+    ]
+  }
+}

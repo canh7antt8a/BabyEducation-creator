@@ -6,7 +6,7 @@
   "filterMode": "point",
   "subMetas": {
     "JXM": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "87391b60-1309-4837-97da-58d60609bf09",
       "rawTextureUuid": "04044d7f-5613-4605-a704-85297c58748f",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 1020,
       "height": 508,
+      "rawWidth": 1024,
+      "rawHeight": 512,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

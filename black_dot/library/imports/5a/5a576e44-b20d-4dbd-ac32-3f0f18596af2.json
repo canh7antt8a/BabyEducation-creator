@@ -1,0 +1,85 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "pVbMUrBL2ChOcKyM3w6UmKvLPgM",
+      "spine": "2.1.27",
+      "width": 464.04,
+      "height": 118.17,
+      "images": "E:/spine/yun"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "Y3",
+        "parent": "root",
+        "length": 166.07,
+        "x": -68,
+        "y": -16.99,
+        "rotation": -1.35
+      }
+    ],
+    "slots": [
+      {
+        "name": "Y3",
+        "bone": "Y3",
+        "attachment": "Y3"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Y3": {
+          "Y3": {
+            "x": 41.64,
+            "y": 15.97,
+            "rotation": 1.35,
+            "width": 464,
+            "height": 118
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "Y3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6666,
+                "x": 0.958,
+                "y": 0.958
+              },
+              {
+                "time": 1.3333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 236,63\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nY3\n  rotate: false\n  xy: 2, 2\n  size: 232, 59\n  orig: 232, 59\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "7012c470-ed66-4179-a268-603f014940c1"
+  },
+  "textures": [
+    {
+      "__uuid__": "8ceda539-4e96-4d1f-a37c-339bc4f2f3d6"
+    }
+  ],
+  "scale": 1
+}

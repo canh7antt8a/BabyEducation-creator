@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "zhuozi": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "069ae1c5-b7a5-4936-a86e-3ba27755ee9b",
       "rawTextureUuid": "ff8006cb-0865-4c2f-996e-1329b5289867",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 191,
       "width": 960,
       "height": 349,
+      "rawWidth": 960,
+      "rawHeight": 540,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_DGrassbak",
+    "texture": "ae9f5556-c04f-4642-b352-ba6b67873782",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      874,
+      245
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      878,
+      249
+    ]
+  }
+}

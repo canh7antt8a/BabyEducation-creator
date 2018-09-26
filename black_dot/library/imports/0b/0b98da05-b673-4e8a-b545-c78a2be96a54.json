@@ -1,0 +1,249 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_antchef",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "RFoe2sKkf/Q7/1e0weRLcFYQOLc",
+      "spine": "2.1.27",
+      "width": 172.43,
+      "height": 190.74,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "shenti",
+        "parent": "root",
+        "length": 31.72,
+        "x": -15.32,
+        "y": 13.51,
+        "rotation": -49.13
+      },
+      {
+        "name": "h2",
+        "parent": "shenti",
+        "length": 20.95,
+        "x": -8.23,
+        "y": 2.37,
+        "rotation": -59.77
+      },
+      {
+        "name": "hand",
+        "parent": "shenti",
+        "length": 18.74,
+        "x": -3.83,
+        "y": 3.31,
+        "rotation": -94.95
+      },
+      {
+        "name": "left",
+        "parent": "shenti",
+        "length": 19.63,
+        "x": 19.27,
+        "y": -9.97,
+        "rotation": -66.58
+      },
+      {
+        "name": "mayi",
+        "parent": "shenti",
+        "length": 21.25,
+        "x": 19.24,
+        "y": -5.49,
+        "rotation": -33.79
+      },
+      {
+        "name": "tou",
+        "parent": "shenti",
+        "length": 35.18,
+        "x": -3.2,
+        "y": -1.12,
+        "rotation": 128.49
+      },
+      {
+        "name": "h3",
+        "parent": "hand",
+        "length": 14.8,
+        "x": 22.1,
+        "y": -0.83,
+        "rotation": -70.48
+      }
+    ],
+    "slots": [
+      {
+        "name": "h2",
+        "bone": "h2",
+        "attachment": "h2"
+      },
+      {
+        "name": "left",
+        "bone": "left",
+        "attachment": "left"
+      },
+      {
+        "name": "mayi",
+        "bone": "mayi",
+        "attachment": "mayi"
+      },
+      {
+        "name": "shenti",
+        "bone": "shenti",
+        "attachment": "shenti"
+      },
+      {
+        "name": "hand",
+        "bone": "hand",
+        "attachment": "hand"
+      },
+      {
+        "name": "tou",
+        "bone": "tou",
+        "attachment": "tou"
+      },
+      {
+        "name": "h3",
+        "bone": "h3",
+        "attachment": "h3"
+      }
+    ],
+    "skins": {
+      "default": {
+        "h2": {
+          "h2": {
+            "x": -2.99,
+            "y": -2.7,
+            "rotation": 108.9,
+            "width": 142,
+            "height": 170
+          }
+        },
+        "h3": {
+          "h3": {
+            "x": -2.21,
+            "y": -23.17,
+            "rotation": -151.97,
+            "width": 142,
+            "height": 170
+          }
+        },
+        "hand": {
+          "hand": {
+            "x": 0.15,
+            "y": -8.95,
+            "rotation": 144.08,
+            "width": 142,
+            "height": 170
+          }
+        },
+        "left": {
+          "left": {
+            "x": -28.93,
+            "y": -13.96,
+            "rotation": 106.39,
+            "width": 142,
+            "height": 170
+          }
+        },
+        "mayi": {
+          "mayi": {
+            "x": -32.65,
+            "y": -9.58,
+            "rotation": 82.93,
+            "width": 142,
+            "height": 170
+          }
+        },
+        "shenti": {
+          "shenti": {
+            "x": -14.23,
+            "y": 5.64,
+            "rotation": 44.06,
+            "width": 142,
+            "height": 170
+          }
+        },
+        "tou": {
+          "tou": {
+            "x": 8.91,
+            "y": 3.92,
+            "rotation": -79.35,
+            "width": 142,
+            "height": 170
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "hand": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "angle": 0
+              },
+              {
+                "time": 0.2,
+                "angle": -40.85
+              }
+            ]
+          },
+          "h3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "angle": 0
+              },
+              {
+                "time": 0.3,
+                "angle": 78.26
+              },
+              {
+                "time": 0.4333,
+                "angle": -15.67
+              },
+              {
+                "time": 0.5666,
+                "angle": 78.26
+              },
+              {
+                "time": 0.7,
+                "angle": -15.67
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_antchef.png\nsize: 93,76\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nh2\n  rotate: false\n  xy: 70, 7\n  size: 10, 22\n  orig: 71, 85\n  offset: 28, 21\n  index: -1\nh3\n  rotate: true\n  xy: 77, 31\n  size: 17, 12\n  orig: 71, 85\n  offset: 13, 32\n  index: -1\nhand\n  rotate: true\n  xy: 82, 17\n  size: 12, 9\n  orig: 71, 85\n  offset: 28, 32\n  index: -1\nleft\n  rotate: false\n  xy: 77, 50\n  size: 13, 24\n  orig: 71, 85\n  offset: 33, 6\n  index: -1\nmayi\n  rotate: false\n  xy: 2, 4\n  size: 17, 70\n  orig: 71, 85\n  offset: 41, 4\n  index: -1\nshenti\n  rotate: true\n  xy: 21, 45\n  size: 29, 54\n  orig: 71, 85\n  offset: 29, 19\n  index: -1\ntou\n  rotate: true\n  xy: 21, 2\n  size: 41, 47\n  orig: 71, 85\n  offset: 16, 32\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "c998c95f-325e-4f04-a2be-866406186aa5"
+  },
+  "textures": [
+    {
+      "__uuid__": "573a06b0-1de8-4a34-b7b8-fc5618475621"
+    }
+  ],
+  "scale": 1
+}

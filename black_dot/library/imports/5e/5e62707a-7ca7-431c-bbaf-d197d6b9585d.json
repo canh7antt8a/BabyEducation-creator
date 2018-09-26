@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shi_tou_men",
+    "texture": "2a921188-2379-4491-ba08-03631896fbbe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      314,
+      319
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      314,
+      319
+    ]
+  }
+}

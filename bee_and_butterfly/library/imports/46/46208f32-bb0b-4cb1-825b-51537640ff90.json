@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_work",
+    "texture": "7c912d7e-0f48-4567-af66-64cd0276035d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      642,
+      231
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      646,
+      235
+    ]
+  }
+}

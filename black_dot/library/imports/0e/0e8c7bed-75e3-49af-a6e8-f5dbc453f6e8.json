@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_lingdanghua",
+    "texture": "4b79dc5f-1a37-44b3-9a6e-e1f70a02ddcc",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      236,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      131
+    ]
+  }
+}

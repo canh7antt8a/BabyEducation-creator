@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eger",
+    "texture": "40cc118b-8ef4-4fc0-ae42-655588f100cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      95
+    ]
+  }
+}

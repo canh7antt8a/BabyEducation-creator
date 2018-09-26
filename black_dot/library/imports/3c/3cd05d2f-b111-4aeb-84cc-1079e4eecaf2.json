@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MYZ0003",
+    "texture": "f25ba4e2-fc4c-4e3f-8727-9aa245916600",
+    "atlas": "",
+    "rect": [
+      7,
+      3,
+      65,
+      35
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      80,
+      40
+    ]
+  }
+}

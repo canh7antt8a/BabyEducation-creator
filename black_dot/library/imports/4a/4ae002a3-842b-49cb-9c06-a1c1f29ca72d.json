@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yanchoong",
+    "texture": "57704468-ebd4-4715-a7a0-045b3dba2fc3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      121
+    ]
+  }
+}

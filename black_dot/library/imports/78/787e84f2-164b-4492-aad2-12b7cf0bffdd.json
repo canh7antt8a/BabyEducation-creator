@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_ant",
+    "texture": "d1fa2e2b-8ce3-4efa-9798-76dee15841d3",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      42,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      30
+    ]
+  }
+}

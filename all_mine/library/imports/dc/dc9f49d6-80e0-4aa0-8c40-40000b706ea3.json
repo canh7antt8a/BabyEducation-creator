@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beijing-win",
+    "texture": "e149576b-82a0-44ad-9cde-e19bbefcb917",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      960,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      960,
+      720
+    ]
+  }
+}

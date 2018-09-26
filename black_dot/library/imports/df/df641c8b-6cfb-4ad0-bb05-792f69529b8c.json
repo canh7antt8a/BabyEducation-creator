@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ant_under_move01",
+  "_objFlags": 0,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -62,
+            -614
+          ],
+          "motionPath": [
+            [
+              75,
+              -723,
+              -41,
+              -697,
+              169.2,
+              -743.5
+            ],
+            [
+              387.6,
+              -756.3,
+              299.2,
+              -768.1,
+              450.2,
+              -747.9
+            ]
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            471.2,
+            -714.9
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2,
+          "value": [
+            471.2,
+            -713.9
+          ],
+          "motionPath": []
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.9166666666666666,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

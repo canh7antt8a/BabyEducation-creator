@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hanjie",
+    "texture": "479b623f-3c7b-4000-a2b9-77fac9f05191",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      60,
+      60
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

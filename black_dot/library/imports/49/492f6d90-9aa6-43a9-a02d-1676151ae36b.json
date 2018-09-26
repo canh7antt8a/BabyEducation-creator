@@ -1,0 +1,144 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_DGrassbak",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "c1A6MoqQt3aGLYzIO5yZecZi858",
+      "spine": "2.1.27",
+      "width": 1748.18,
+      "height": 490.67,
+      "images": "../Data/grass/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "grases-back",
+        "parent": "root",
+        "length": 684.44,
+        "x": 134.26,
+        "y": -459.5,
+        "rotation": 91.81
+      }
+    ],
+    "slots": [
+      {
+        "name": "grases-back",
+        "bone": "grases-back",
+        "attachment": "grases-back"
+      }
+    ],
+    "skins": {
+      "default": {
+        "grases-back": {
+          "grases-back": {
+            "x": 531.09,
+            "y": -84.57,
+            "rotation": -91.81,
+            "width": 1748,
+            "height": 490
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "grases-back": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 1.37
+              },
+              {
+                "time": 1,
+                "angle": 0
+              },
+              {
+                "time": 1.5,
+                "angle": -1.98
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": 9.37
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 1.87,
+                "y": 3.74
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0.946,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0.981,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_DGrassbak.png\nsize: 878,249\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ngrases-back\n  rotate: false\n  xy: 2, 2\n  size: 874, 245\n  orig: 874, 245\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "00caa5df-ab69-466c-908e-58c4d5f51e4c"
+  },
+  "textures": [
+    {
+      "__uuid__": "ae9f5556-c04f-4642-b352-ba6b67873782"
+    }
+  ],
+  "scale": 1
+}

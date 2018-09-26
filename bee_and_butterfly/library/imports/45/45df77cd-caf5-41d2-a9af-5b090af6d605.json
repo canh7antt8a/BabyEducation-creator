@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_butterfly",
+    "texture": "128dfa0c-8d58-4a1a-a35a-6114378f1e93",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      803,
+      212
+    ],
+    "offset": [
+      -108.5,
+      20
+    ],
+    "originalSize": [
+      1024,
+      256
+    ]
+  }
+}

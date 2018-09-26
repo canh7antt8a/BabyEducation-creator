@@ -1,0 +1,112 @@
+{
+"skeleton": { "hash": "j64RsbvmXGENjnVGPvLqeozRMTU", "spine": "2.1.27", "width": 46.73, "height": 54.4, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "shen", "parent": "root", "length": 8.81, "x": 81.91, "y": -8.27, "rotation": -54.97 },
+	{ "name": "chibang1", "parent": "shen", "length": 9.94, "x": -8.64, "y": -4.18, "rotation": -125.91 },
+	{ "name": "chibang2", "parent": "shen", "length": 7.8, "x": -4.74, "y": 5.46, "rotation": 68.12 },
+	{ "name": "guanzi", "parent": "shen", "length": 6.28, "x": 1.68, "y": -15.94, "rotation": 62.18 },
+	{ "name": "shou", "parent": "shen", "length": 7.06, "x": -5.49, "y": -1.38, "rotation": -10.34 },
+	{ "name": "shou1", "parent": "shen", "length": 5.79, "x": -7.62, "y": -6.8, "rotation": -77.56 },
+	{ "name": "tou", "parent": "shen", "length": 9.09, "x": -5.84, "y": -0.18, "rotation": 175.94 }
+],
+"slots": [
+	{ "name": "chibang1", "bone": "chibang1", "attachment": "chibang1" },
+	{ "name": "chibang2", "bone": "chibang2", "attachment": "chibang2" },
+	{ "name": "shen", "bone": "shen", "attachment": "shen" },
+	{ "name": "guanzi", "bone": "guanzi", "attachment": "guanzi" },
+	{ "name": "tou", "bone": "tou", "attachment": "tou" },
+	{ "name": "shou", "bone": "shou", "attachment": "shou" },
+	{ "name": "shou1", "bone": "shou1", "attachment": "shou1" }
+],
+"skins": {
+	"default": {
+		"chibang1": {
+			"chibang1": { "x": -4.83, "y": -5.83, "rotation": -179.1, "width": 46, "height": 52 }
+		},
+		"chibang2": {
+			"chibang2": { "x": -4.69, "y": 3.87, "rotation": -13.14, "width": 46, "height": 52 }
+		},
+		"guanzi": {
+			"guanzi": { "x": 10.96, "y": 19.74, "rotation": -7.2, "width": 46, "height": 52 }
+		},
+		"shen": {
+			"shen": { "x": -10.33, "y": 3.02, "rotation": 54.97, "width": 46, "height": 52 }
+		},
+		"shou": {
+			"shou": { "x": -6.86, "y": 4.07, "rotation": 65.32, "width": 46, "height": 52 }
+		},
+		"shou1": {
+			"shou1": { "x": -10.51, "y": -0.51, "rotation": 132.54, "width": 46, "height": 52 }
+		},
+		"tou": {
+			"tou": { "x": 3.63, "y": -2.8, "rotation": -120.96, "width": 46, "height": 52 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"chibang2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.614, "y": 1 },
+					{ "time": 0.2666, "x": 1, "y": 1 }
+				]
+			},
+			"chibang1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.764, "y": 1 },
+					{ "time": 0.2666, "x": 1, "y": 1 }
+				]
+			},
+			"shen": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 0.69 },
+					{ "time": 0.2, "x": 0, "y": 0.23 }
+				]
+			},
+			"tou": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			},
+			"shou": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			},
+			"shou1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			},
+			"guanzi": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

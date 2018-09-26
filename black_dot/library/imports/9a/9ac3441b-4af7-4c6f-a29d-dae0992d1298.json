@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tree_1_move",
+  "_objFlags": 0,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            680,
+            -595
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            821,
+            -1116
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

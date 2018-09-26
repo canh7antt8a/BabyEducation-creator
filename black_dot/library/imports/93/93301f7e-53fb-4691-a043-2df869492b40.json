@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ant_mask3",
+    "texture": "d331a22e-99d6-4867-be5b-9dfb017987e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      75
+    ]
+  }
+}

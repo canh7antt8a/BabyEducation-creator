@@ -1,0 +1,178 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_DflowerD",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ei2i0v8WRN2SRyHHay2Ontr9n8U",
+      "spine": "2.1.27",
+      "width": 189.99,
+      "height": 299.98,
+      "images": "../Data/flowers/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "HD",
+        "parent": "root",
+        "length": 152.39,
+        "x": -6.99,
+        "y": -99.01,
+        "rotation": 83.7
+      }
+    ],
+    "slots": [
+      {
+        "name": "HD",
+        "bone": "HD",
+        "attachment": "HD"
+      }
+    ],
+    "skins": {
+      "default": {
+        "HD": {
+          "HD": {
+            "x": 130.93,
+            "y": -1.14,
+            "rotation": -83.7,
+            "width": 190,
+            "height": 300
+          }
+        }
+      }
+    },
+    "animations": {
+      "HD-dianji": {
+        "bones": {
+          "HD": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6666,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1333,
+                "x": 0.939,
+                "y": 0.951
+              },
+              {
+                "time": 0.3333,
+                "x": 1.079,
+                "y": 1.029
+              },
+              {
+                "time": 0.4666,
+                "x": 1.001,
+                "y": 0.986
+              },
+              {
+                "time": 0.6,
+                "x": 1.01,
+                "y": 1
+              },
+              {
+                "time": 0.6666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "HD-yaobai": {
+        "bones": {
+          "HD": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": 4.81
+              },
+              {
+                "time": 2,
+                "angle": 0
+              },
+              {
+                "time": 3,
+                "angle": -2.23
+              },
+              {
+                "time": 4,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0.97,
+                "y": 1.03
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.964,
+                "y": 1.049
+              },
+              {
+                "time": 4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_DflowerD.png\nsize: 99,154\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nHD\n  rotate: false\n  xy: 2, 2\n  size: 95, 150\n  orig: 95, 150\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "54d0c67e-fe3d-4ba9-80d2-6ec1b24eb97f"
+  },
+  "textures": [
+    {
+      "__uuid__": "a233405e-b117-46c8-9f6a-7639bb91aaed"
+    }
+  ],
+  "scale": 1
+}

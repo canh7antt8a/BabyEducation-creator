@@ -1,0 +1,98 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_DflowGLH",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "44w/je1awn8vG9LuO93vBy963wU",
+      "spine": "2.1.27",
+      "width": 128.99,
+      "height": 156.99,
+      "images": "../Data/flowers/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "GLH",
+        "parent": "root",
+        "length": 103,
+        "x": -1.04,
+        "y": 32.96,
+        "rotation": -81.93
+      }
+    ],
+    "slots": [
+      {
+        "name": "GLH",
+        "bone": "GLH",
+        "attachment": "GLH"
+      }
+    ],
+    "skins": {
+      "default": {
+        "GLH": {
+          "GLH": {
+            "x": 62.31,
+            "y": 8.98,
+            "rotation": 81.93,
+            "width": 129,
+            "height": 157
+          }
+        }
+      }
+    },
+    "animations": {
+      "GLH-lingdang": {
+        "bones": {
+          "GLH": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.4,
+                "angle": 4.81
+              },
+              {
+                "time": 0.5333,
+                "angle": 5.91
+              },
+              {
+                "time": 1,
+                "angle": 0
+              },
+              {
+                "time": 1.4,
+                "angle": -3.22
+              },
+              {
+                "time": 1.5333,
+                "angle": -5.51
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_DflowGLH.png\nsize: 69,83\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGLH\n  rotate: false\n  xy: 2, 2\n  size: 65, 79\n  orig: 65, 79\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "cb47247c-d4b9-4e26-86cf-d7b60c109057"
+  },
+  "textures": [
+    {
+      "__uuid__": "12d26c6d-da35-47b9-9195-842476f0bc77"
+    }
+  ],
+  "scale": 1
+}

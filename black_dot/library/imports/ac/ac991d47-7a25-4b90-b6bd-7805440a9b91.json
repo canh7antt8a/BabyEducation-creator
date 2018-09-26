@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_yan",
+    "texture": "a4dd760c-12c6-4c08-8098-f517518d3850",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      79,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      82
+    ]
+  }
+}

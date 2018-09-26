@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "yanchoong": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "4ae002a3-842b-49cb-9c06-a1c1f29ca72d",
       "rawTextureUuid": "57704468-ebd4-4715-a7a0-045b3dba2fc3",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 171,
       "height": 121,
+      "rawWidth": 171,
+      "rawHeight": 121,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

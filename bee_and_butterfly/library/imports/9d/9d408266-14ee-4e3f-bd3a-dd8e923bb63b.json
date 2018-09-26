@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hua4",
+    "texture": "f39cf937-2452-4dc3-9250-e6fe2237aa4e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      151
+    ]
+  }
+}

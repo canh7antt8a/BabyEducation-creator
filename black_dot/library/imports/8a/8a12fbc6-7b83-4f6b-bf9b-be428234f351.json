@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ling_dang_hua",
+    "texture": "84f0b750-7332-470f-9386-1f1a04201c50",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      206,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      206,
+      129
+    ]
+  }
+}

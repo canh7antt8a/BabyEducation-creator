@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ske_yun1": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "c0347070-35fc-45f1-9316-be2f5cc600b5",
       "rawTextureUuid": "b96ef848-648a-41d9-966c-cee081dedc36",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 194,
       "height": 66,
+      "rawWidth": 198,
+      "rawHeight": 70,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

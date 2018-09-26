@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mao",
+    "texture": "12eac5ca-0295-4334-aba0-5138c7a930b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      154
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      154
+    ]
+  }
+}

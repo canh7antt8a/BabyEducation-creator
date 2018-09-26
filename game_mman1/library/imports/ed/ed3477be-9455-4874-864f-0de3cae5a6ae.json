@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tw13",
+    "texture": "e48ef79b-eed9-4987-9321-a8e5c14a6792",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      308,
+      182
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      308,
+      182
+    ]
+  }
+}

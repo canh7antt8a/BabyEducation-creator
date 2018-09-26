@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "top_worker",
+    "texture": "8b4e765d-16de-43f3-b29f-743708e1a96b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      464
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      464
+    ]
+  }
+}

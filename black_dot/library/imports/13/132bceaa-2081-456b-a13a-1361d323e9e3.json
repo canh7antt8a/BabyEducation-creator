@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_zhizhu",
+    "texture": "512c5237-005e-400e-bf67-824cae856164",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      76,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      65
+    ]
+  }
+}

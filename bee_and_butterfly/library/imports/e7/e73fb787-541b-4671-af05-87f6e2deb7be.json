@@ -1,0 +1,342 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_DflowerB",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "CV2eSbTChkSbe/yXtDfW/SfKeYY",
+      "spine": "2.1.27",
+      "width": 191.08,
+      "height": 232.07,
+      "images": "./../Data/flowers/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "HB",
+        "parent": "root",
+        "length": 85.44,
+        "x": 6.41,
+        "y": -98.51,
+        "rotation": 87.29
+      },
+      {
+        "name": "HB2",
+        "parent": "HB",
+        "length": 72.37,
+        "x": 90.55,
+        "y": 1.27,
+        "rotation": 21.09
+      }
+    ],
+    "slots": [
+      {
+        "name": "jbxgt2",
+        "bone": "root",
+        "color": "ffffff89",
+        "blend": "screen"
+      },
+      {
+        "name": "jbxgt",
+        "bone": "root",
+        "color": "ffffff87",
+        "blend": "screen"
+      },
+      {
+        "name": "HB",
+        "bone": "HB2",
+        "attachment": "HB"
+      }
+    ],
+    "skins": {
+      "default": {
+        "HB": {
+          "HB": {
+            "x": 29.53,
+            "y": 23.25,
+            "rotation": -108.39,
+            "width": 191,
+            "height": 232
+          }
+        }
+      }
+    },
+    "events": {
+      "yaobai": {}
+    },
+    "animations": {
+      "HB-dianji": {
+        "bones": {
+          "HB": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1666,
+                "x": 0.916,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 1.027,
+                "y": 1
+              },
+              {
+                "time": 0.4333,
+                "x": 0.979,
+                "y": 1
+              },
+              {
+                "time": 0.5333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "HB-yaobai": {
+        "bones": {
+          "HB2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 4,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 4,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "HB": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": 3.78
+              },
+              {
+                "time": 2,
+                "angle": 0
+              },
+              {
+                "time": 3,
+                "angle": -5.07
+              },
+              {
+                "time": 4,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 4,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0.989,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.994,
+                "y": 1
+              },
+              {
+                "time": 4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "HB-yikai": {
+        "bones": {
+          "HB": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5333,
+                "angle": 0
+              },
+              {
+                "time": 1.3333,
+                "angle": 43.07
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.3333,
+                "x": -30.24,
+                "y": -4.89
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2,
+                "x": 0.94,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 1.007,
+                "y": 1
+              },
+              {
+                "time": 0.5333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_DflowerB.png\nsize: 100,120\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nHB\n  rotate: false\n  xy: 2, 2\n  size: 96, 116\n  orig: 96, 116\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "db311011-add0-4016-b87f-455f27e2b85c"
+  },
+  "textures": [
+    {
+      "__uuid__": "da891a10-2290-4cf2-8ab6-5a449bceafc6"
+    }
+  ],
+  "scale": 1
+}

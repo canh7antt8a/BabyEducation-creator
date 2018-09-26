@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gongzuo_tai2",
+    "texture": "bc444cdc-6e65-41b3-b103-d27757f31281",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      8
+    ]
+  }
+}

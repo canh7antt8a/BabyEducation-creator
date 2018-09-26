@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clound",
+    "texture": "125897c2-93a3-4d56-a762-c0c66ce4fdca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1770,
+      540
+    ],
+    "offset": [
+      -7.5,
+      1.5
+    ],
+    "originalSize": [
+      1785,
+      543
+    ]
+  }
+}

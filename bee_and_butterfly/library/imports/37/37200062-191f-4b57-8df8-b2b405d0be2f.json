@@ -1,0 +1,151 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_DflowerD",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "rHglwmWyzlCx9ms75cjXCzylLBU",
+      "spine": "2.1.27",
+      "width": 166,
+      "height": 242,
+      "images": "./../Data/flowers/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "HE",
+        "parent": "root",
+        "length": 100.8,
+        "x": 4.5,
+        "y": -73,
+        "rotation": 100.7
+      },
+      {
+        "name": "HE2",
+        "parent": "HE",
+        "length": 76.66,
+        "x": 108.24,
+        "y": 1.91,
+        "rotation": 19.51
+      },
+      {
+        "name": "HE3",
+        "parent": "HE",
+        "length": 70.93,
+        "x": 203.47,
+        "y": 10.36,
+        "rotation": 100.7
+      }
+    ],
+    "slots": [
+      {
+        "name": "HE",
+        "bone": "HE3",
+        "attachment": "HE"
+      }
+    ],
+    "skins": {
+      "default": {
+        "HE": {
+          "HE": {
+            "x": 41.47,
+            "y": 72.89,
+            "rotation": 158.59,
+            "width": 166,
+            "height": 242
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "HE3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 1.016,
+                "y": 1.033
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 1.024,
+                "y": 1.02
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "HE": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 4.26
+              },
+              {
+                "time": 1,
+                "angle": 0
+              },
+              {
+                "time": 1.5,
+                "angle": -3.39
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_DflowerD.png\nsize: 87,125\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nHE\n  rotate: false\n  xy: 2, 2\n  size: 83, 121\n  orig: 83, 121\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "377cf159-6978-435f-8faf-9b4ce193fb1f"
+  },
+  "textures": [
+    {
+      "__uuid__": "4e850aa1-3ac4-40f1-990a-e6c0e82eff69"
+    }
+  ],
+  "scale": 1
+}

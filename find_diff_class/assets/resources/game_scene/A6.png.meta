@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "A6": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "509309f5-fa81-4a95-90d2-3ecd98cef62d",
       "rawTextureUuid": "eb647013-c2bf-4589-8769-62cac6d6d0bb",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 4,
       "width": 100,
       "height": 91,
+      "rawWidth": 100,
+      "rawHeight": 100,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

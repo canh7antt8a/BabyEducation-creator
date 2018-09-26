@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MFH1",
+    "texture": "3e505ebb-d4a4-4fe7-b127-d56efbb13ad5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      211
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      211
+    ]
+  }
+}

@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ske_dropletszfc": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "ab8e19bc-7472-4254-bfb0-b222b92eba04",
       "rawTextureUuid": "527e0d17-1aec-4e65-a942-d214086af66d",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 905,
       "height": 286,
+      "rawWidth": 909,
+      "rawHeight": 290,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

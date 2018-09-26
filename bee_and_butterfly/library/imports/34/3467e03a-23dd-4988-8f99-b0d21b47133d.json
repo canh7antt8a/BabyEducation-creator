@@ -1,0 +1,383 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_lingdanghua",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "dr6omKCqN3sb2paAgJpA5nrSGuU",
+      "spine": "2.1.27",
+      "width": 403.09,
+      "height": 253.15,
+      "images": "../Data/flowers/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "LDH-a",
+        "parent": "root",
+        "length": 295.47,
+        "x": 165.06,
+        "y": -302.51,
+        "rotation": 122.2
+      },
+      {
+        "name": "LDH-b",
+        "parent": "root",
+        "length": 151.06,
+        "x": -37.45,
+        "y": -61.48,
+        "rotation": -103.71
+      }
+    ],
+    "slots": [
+      {
+        "name": "jbxgt",
+        "bone": "root",
+        "blend": "screen"
+      },
+      {
+        "name": "LDH-a",
+        "bone": "LDH-a",
+        "attachment": "LDH-a"
+      },
+      {
+        "name": "LDH-b",
+        "bone": "LDH-b",
+        "attachment": "LDH-b"
+      }
+    ],
+    "skins": {
+      "default": {
+        "LDH-a": {
+          "LDH-a": {
+            "x": 167.08,
+            "y": 26.03,
+            "rotation": -122.2,
+            "width": 403,
+            "height": 253
+          }
+        },
+        "LDH-b": {
+          "LDH-b": {
+            "x": 88.63,
+            "y": 115.73,
+            "rotation": 103.71,
+            "width": 403,
+            "height": 253
+          }
+        }
+      }
+    },
+    "animations": {
+      "Lingdanghuayaobai": {
+        "bones": {
+          "LDH-b": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 2.44
+              },
+              {
+                "time": 1,
+                "angle": 0
+              },
+              {
+                "time": 1.5,
+                "angle": -2.61
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 5.97,
+                "y": -12.61
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 11.95,
+                "y": 0.66
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0.98,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0.98,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "LDH-a": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 0.64
+              },
+              {
+                "time": 1,
+                "angle": 0
+              },
+              {
+                "time": 1.5,
+                "angle": -2.67
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0.976,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0.984,
+                "y": 1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "dianjidoudong": {
+        "bones": {
+          "LDH-b": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.1666,
+                "angle": 3.93
+              },
+              {
+                "time": 0.3333,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": -5.26
+              },
+              {
+                "time": 0.6666,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.1666,
+                "x": 1.32,
+                "y": -0.66
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 0.66,
+                "y": -2.65
+              },
+              {
+                "time": 0.6666,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1666,
+                "x": 0.985,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0.982,
+                "y": 1
+              },
+              {
+                "time": 0.6666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "LDH-a": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.1666,
+                "angle": -0.65
+              },
+              {
+                "time": 0.3333,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 0.32
+              },
+              {
+                "time": 0.6666,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6666,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.994,
+                "y": 0.994
+              },
+              {
+                "time": 0.3333,
+                "x": 0.997,
+                "y": 0.997
+              },
+              {
+                "time": 0.6666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_lingdanghua.png\nsize: 240,131\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLDH-a\n  rotate: false\n  xy: 2, 2\n  size: 148, 127\n  orig: 202, 127\n  offset: 54, 0\n  index: -1\nLDH-b\n  rotate: false\n  xy: 152, 35\n  size: 86, 94\n  orig: 202, 127\n  offset: 0, 30\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "ee451089-060c-4803-a8b6-0409d9aa4cb9"
+  },
+  "textures": [
+    {
+      "__uuid__": "01f157d2-3715-41a1-83ea-9df338362150"
+    }
+  ],
+  "scale": 1
+}

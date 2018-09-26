@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "animal_7": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "2dd2e23c-7fb4-47eb-819c-7c0c07ca14ce",
       "rawTextureUuid": "aac14070-c9a5-49bb-8495-4956b53bdf00",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 86,
       "height": 100,
+      "rawWidth": 100,
+      "rawHeight": 100,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

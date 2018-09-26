@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_bee",
+    "texture": "83ffd038-aa1f-4f00-a4f1-93b5663d39b6",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      42,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      30
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ZZ5",
+    "texture": "659f580c-1ca7-4c27-8ae1-db93a5a5e940",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      61
+    ]
+  }
+}

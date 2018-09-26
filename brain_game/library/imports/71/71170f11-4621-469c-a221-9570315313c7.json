@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frist_button_3",
+    "texture": "1e87d7b0-f35c-46d0-8230-b26ae3196539",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      392
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      392
+    ]
+  }
+}

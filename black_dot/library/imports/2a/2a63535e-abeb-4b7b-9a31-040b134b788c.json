@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_coffcap",
+    "texture": "411cb290-76e1-4389-9ae8-d75b577868ab",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      127,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      97
+    ]
+  }
+}

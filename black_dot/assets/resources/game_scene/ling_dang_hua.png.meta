@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ling_dang_hua": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "8a12fbc6-7b83-4f6b-bf9b-be428234f351",
       "rawTextureUuid": "84f0b750-7332-470f-9386-1f1a04201c50",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 206,
       "height": 129,
+      "rawWidth": 206,
+      "rawHeight": 129,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

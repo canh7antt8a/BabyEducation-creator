@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "beijing-win": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "dc9f49d6-80e0-4aa0-8c40-40000b706ea3",
       "rawTextureUuid": "e149576b-82a0-44ad-9cde-e19bbefcb917",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 960,
       "height": 720,
+      "rawWidth": 960,
+      "rawHeight": 720,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

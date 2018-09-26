@@ -1,0 +1,97 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_yan",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "7nya6KhrVu8VPJcULaKK+5m+Ojo",
+      "spine": "2.1.27",
+      "width": 349,
+      "height": 276,
+      "images": "E:/spine/yan"
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "6",
+        "bone": "root",
+        "attachment": "6"
+      }
+    ],
+    "skins": {
+      "default": {
+        "6": {
+          "6": {
+            "x": 135,
+            "y": -3,
+            "width": 349,
+            "height": 276
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "6": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff08"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 90.15,
+                "y": -62.91
+              },
+              {
+                "time": 1.5,
+                "x": -108.92,
+                "y": 229
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.491,
+                "y": 0.275
+              },
+              {
+                "time": 1.5,
+                "x": 1.838,
+                "y": 0.72
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_yan.png\nsize: 83,82\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n6\n  rotate: false\n  xy: 2, 2\n  size: 79, 78\n  orig: 175, 138\n  offset: 48, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "0e8f315c-0b87-4c59-8412-e4df0761d4f7"
+  },
+  "textures": [
+    {
+      "__uuid__": "a4dd760c-12c6-4c08-8098-f517518d3850"
+    }
+  ],
+  "scale": 1
+}

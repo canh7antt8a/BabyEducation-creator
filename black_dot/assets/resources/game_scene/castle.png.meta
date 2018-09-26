@@ -6,7 +6,7 @@
   "filterMode": "point",
   "subMetas": {
     "castle": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "c3218f39-a4b6-48e9-9027-1ac7b22cc63c",
       "rawTextureUuid": "39891218-ae1a-4722-a093-7766d05be0f7",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 967,
       "height": 449,
+      "rawWidth": 968,
+      "rawHeight": 449,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

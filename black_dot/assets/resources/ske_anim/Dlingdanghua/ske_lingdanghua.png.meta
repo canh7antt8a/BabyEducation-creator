@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ske_lingdanghua": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "0e8c7bed-75e3-49af-a6e8-f5dbc453f6e8",
       "rawTextureUuid": "4b79dc5f-1a37-44b3-9a6e-e1f70a02ddcc",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 236,
       "height": 127,
+      "rawWidth": 240,
+      "rawHeight": 131,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

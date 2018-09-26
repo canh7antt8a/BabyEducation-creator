@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ske_DGrassbak": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "17b1e0fb-17e0-4140-9d42-8d49099c7fc5",
       "rawTextureUuid": "ae9f5556-c04f-4642-b352-ba6b67873782",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 874,
       "height": 245,
+      "rawWidth": 878,
+      "rawHeight": 249,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

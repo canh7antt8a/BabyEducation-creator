@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kim",
+    "texture": "ce16eaac-03f1-4a5b-8b61-261ad8f14e6a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      442
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      442
+    ]
+  }
+}

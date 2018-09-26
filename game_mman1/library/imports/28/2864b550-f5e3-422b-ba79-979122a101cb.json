@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "left_worker",
+    "texture": "0c74e968-362c-4fa9-baeb-72a9150c7540",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      362,
+      772
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      362,
+      772
+    ]
+  }
+}

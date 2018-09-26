@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "luzhu_ye",
+    "texture": "0925d02f-eca0-419a-8a23-b066d238501a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      419,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      419,
+      216
+    ]
+  }
+}

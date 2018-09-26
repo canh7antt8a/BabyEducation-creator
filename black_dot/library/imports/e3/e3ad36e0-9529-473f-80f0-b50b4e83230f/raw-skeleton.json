@@ -1,0 +1,30 @@
+{
+"skeleton": { "hash": "vpE1dtObuBZoGxxBIT0H2DfNQdE", "spine": "2.1.27", "width": 258.02, "height": 74.09, "images": "E:/spine/yun" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Y2", "parent": "root", "length": 124.01, "x": -55, "y": 3, "rotation": 0.9 }
+],
+"slots": [
+	{ "name": "Y2", "bone": "Y2", "attachment": "Y2" }
+],
+"skins": {
+	"default": {
+		"Y2": {
+			"Y2": { "x": 37.12, "y": 7.41, "rotation": -0.9, "width": 258, "height": 74 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"Y2": {
+				"scale": [
+					{ "time": 0, "x": 0.992, "y": 1 },
+					{ "time": 0.6666, "x": 0.95, "y": 0.95 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

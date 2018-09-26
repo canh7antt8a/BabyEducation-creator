@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "luzhu_ye.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "599a7c11-c783-4624-86b2-7a6ce7f75a2e",
       "rawTextureUuid": "0925d02f-eca0-419a-8a23-b066d238501a",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 419,
       "height": 216,
+      "rawWidth": 419,
+      "rawHeight": 216,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

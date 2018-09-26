@@ -1,0 +1,46 @@
+{
+"skeleton": { "hash": "3q1HCuG6YlJBDhAWstZLZFYs2Yo", "spine": "2.1.27", "width": 530.99, "height": 531.99, "images": "../Data/grass/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "denglongcao", "parent": "root", "length": 525.53, "x": -224.46, "y": -11.06, "rotation": 45.22 }
+],
+"slots": [
+	{ "name": "jbxgt", "bone": "root", "color": "ffffffcb", "blend": "screen" },
+	{ "name": "denglongcao", "bone": "denglongcao", "attachment": "denglongcao" }
+],
+"skins": {
+	"default": {
+		"denglongcao": {
+			"denglongcao": { "x": 337.51, "y": -116.81, "rotation": -45.22, "width": 531, "height": 532 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"denglongcao": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": 0.74 },
+					{ "time": 2, "angle": 0 },
+					{ "time": 3, "angle": -1.26 },
+					{ "time": 4, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1, "x": -1.47, "y": 0 },
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 3, "x": -7.58, "y": 0 },
+					{ "time": 4, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

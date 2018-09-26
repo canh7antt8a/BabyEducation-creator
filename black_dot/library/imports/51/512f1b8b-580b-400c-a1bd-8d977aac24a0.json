@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_DflowDLHa",
+    "texture": "5111e382-0ac5-4ffd-ae5d-ef81dc31f6bd",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      317,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      321,
+      106
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xianfu-feiji",
+    "texture": "87bd2cc0-8918-4239-a837-3e6f76e82c80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      201,
+      151
+    ]
+  }
+}

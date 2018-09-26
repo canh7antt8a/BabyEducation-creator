@@ -1,0 +1,157 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_DGrass1",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "WeqvqMCZY+baoUSuDBAI9XXlhYY",
+      "spine": "2.1.27",
+      "width": 383,
+      "height": 363.53,
+      "images": "../Data/grass/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "grass1-b",
+        "parent": "root",
+        "length": 319.12,
+        "x": -0.78,
+        "y": -185.43,
+        "rotation": 90
+      }
+    ],
+    "slots": [
+      {
+        "name": "grass1-a",
+        "bone": "root",
+        "attachment": "grass1-a"
+      },
+      {
+        "name": "grass1-b",
+        "bone": "grass1-b",
+        "attachment": "grass1-b"
+      }
+    ],
+    "skins": {
+      "default": {
+        "grass1-a": {
+          "grass1-a": {
+            "x": -2.84,
+            "y": -48.84,
+            "width": 219,
+            "height": 124
+          }
+        },
+        "grass1-b": {
+          "grass1-b": {
+            "x": 312.12,
+            "y": 0.85,
+            "rotation": -90,
+            "width": 383,
+            "height": 252
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "grass1-b": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 3.15
+              },
+              {
+                "time": 1,
+                "angle": 0
+              },
+              {
+                "time": 1.5,
+                "angle": -3.56
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": 11.81,
+                "y": 4.3
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": -13.56,
+                "y": 3.49
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0.959,
+                "y": 0.985
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0.977,
+                "y": 0.994
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_DGrass1.png\nsize: 259,130\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ngrass1-a\n  rotate: true\n  xy: 196, 18\n  size: 110, 61\n  orig: 110, 62\n  offset: 0, 0\n  index: -1\ngrass1-b\n  rotate: false\n  xy: 2, 2\n  size: 192, 126\n  orig: 192, 126\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "5c61ad8a-62ff-4f70-87f3-e99f65350061"
+  },
+  "textures": [
+    {
+      "__uuid__": "b14d52ed-f438-4910-beca-d7d137ecf4fe"
+    }
+  ],
+  "scale": 1
+}

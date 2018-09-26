@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MFH1zz",
+    "texture": "9d02b004-4014-42f4-8f39-230d34c57a2c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      71
+    ]
+  }
+}

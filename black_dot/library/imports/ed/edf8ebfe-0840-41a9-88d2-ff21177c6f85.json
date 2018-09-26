@@ -1,0 +1,95 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ske_zhizhu",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "DucMEuRV/18W2F8ygHucZ8uWM5I",
+      "spine": "2.1.27",
+      "width": 176.84,
+      "height": 155.48,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "ZZW",
+        "parent": "root",
+        "length": 63.88,
+        "x": 59.76,
+        "y": 25.68,
+        "rotation": -3.6
+      }
+    ],
+    "slots": [
+      {
+        "name": "ZZW",
+        "bone": "ZZW",
+        "attachment": "ZZW"
+      }
+    ],
+    "skins": {
+      "default": {
+        "ZZW": {
+          "ZZW": {
+            "x": 27.79,
+            "y": 5.71,
+            "rotation": 18.35,
+            "width": 151,
+            "height": 121
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "ZZW": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1666,
+                "x": 0.954,
+                "y": 1
+              },
+              {
+                "time": 0.2666,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 0.954,
+                "y": 1
+              },
+              {
+                "time": 0.4,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nske_zhizhu.png\nsize: 80,65\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nZZW\n  rotate: false\n  xy: 2, 2\n  size: 76, 61\n  orig: 76, 61\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "5c9a1dd8-8290-4727-8186-62287c8cdf39"
+  },
+  "textures": [
+    {
+      "__uuid__": "512c5237-005e-400e-bf67-824cae856164"
+    }
+  ],
+  "scale": 1
+}
